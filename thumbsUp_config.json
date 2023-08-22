@@ -1,0 +1,7 @@
+{ 
+	"title"			: "Cullmann Gallery",
+	"theme"			: "cards",
+	"theme-style"		: "cullmann.less",
+	"sort-albums-direction"	: "desc",
+	"concurrency"		: "4"
+}
