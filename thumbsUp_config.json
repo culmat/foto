@@ -3,5 +3,7 @@
 	"theme"			: "cards",
 	"theme-style"		: "/work/cullmann.less",
 	"sort-albums-direction"	: "desc",
-	"concurrency"		: "4"
+	"concurrency"		: "4",
+	"exclude": ["WIP/**"]
 }
+
