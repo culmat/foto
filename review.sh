@@ -1,4 +1,5 @@
 #!/bin/bash
+# press return to open the image in an editor
 if [[ "$(uname -s)" == "Darwin" ]]; then
 	DEFAULT_HOME="/Users/matthias"
 else
