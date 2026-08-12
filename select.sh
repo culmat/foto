@@ -1,9 +1,6 @@
-#!/bin/bash
-if [[ "$(uname -s)" == "Darwin" ]]; then
-	DEFAULT_HOME="/Users/matthias"
-else
-	DEFAULT_HOME="/home/matthi"
-fi
+#!/usr/bin/env bash
+
+DEFAULT_HOME="$HOME"
 
 DEST_DIR="${1:-$DEFAULT_HOME/Pictures/foto/src/WIP/}"
 SRC_DIR="${2:-$DEFAULT_HOME/Pictures/s10/Camera/}"
@@ -21,4 +18,4 @@ FEH_ACTION_COPY="${FEH_ACTION_COPY:-$DEFAULT_HOME/Pictures/foto/scripts/feh_acti
 
 ACTION1="\"$FEH_ACTION_COPY\" %F"
 
-feh --edit -.Fn -A ";mkdir -p \"$DEST_DIR\" && cp %F \"$DEST_DIR/%n\"" --action1 "$ACTION1" --action2 ";mkdir -p \"$WALLPAPER_DIR\" && cp %F \"$WALLPAPER_DIR/%n\"" "$SRC_DIR"
+feh --edit -.Fn -A ";mkdir -p \"$DEST_DIR\" && cp %F \"$DEST_DIR\"/%N" --action1 "$ACTION1" --action2 ";mkdir -p \"$WALLPAPER_DIR\" && cp %F \"$WALLPAPER_DIR\"/%N" "$SRC_DIR"
