@@ -1,0 +1,258 @@
+/*
+  Immersive fullscreen viewing mode -- hand-authored, injected by patchHtml.py.
+
+  Loaded AFTER public/theme.css, so plain class specificity is enough to beat
+  public/lightgallery/css/lightgallery.css and public/lightgallery/css/lg-exif.min.css.
+
+  Applied unconditionally whenever the lightbox is open, not gated on fullscreen:
+  there is only one consumer of .lg-outer on this site, and a fullscreen-scoped
+  ruleset would give pre-17.4 iPhones (no Element.requestFullscreen) none of it.
+*/
+
+/* --- stage: exactly the visible viewport, pure black --------------------- */
+
+.lg-outer {
+  height: 100%;    /* engines without dvh */
+  height: 100dvh;  /* Chrome 108+, Safari 15.4+: excludes the collapsing URL bar */
+  background-color: #000;
+}
+
+.lg-backdrop {
+  background-color: #000;
+}
+
+/* This build of lightgallery.css ships no body.lg-on rule, so the page keeps
+   scrolling behind the fixed overlay -- which also makes 100dvh twitch as the
+   mobile URL bar collapses. lightGallery saves and restores prevScrollTop on
+   close, so overflow:hidden (rather than position:fixed) is safe here. */
+body.lg-on {
+  overflow: hidden;
+}
+
+/* --- insets: the photo reaches the screen edges ------------------------- */
+
+/* lightgallery.css:708-714  .lg-outer .lg-img-wrap { padding: 0 5px } */
+.lg-outer .lg-img-wrap,
+.lg-outer .lg-video-cont {
+  padding: 0;
+}
+
+/* lightgallery.css:329-331  .lg-outer.lg-has-thumb .lg-item { padding-bottom: 120px }
+   Already reset to 0 by lg-can-toggle, but be explicit -- we hide the strip. */
+.lg-outer .lg-item {
+  padding-bottom: 0;
+}
+
+/* lg-exif.min.css  .lg { width: auto !important; border-right: .167em solid #666 }
+   That grey hairline down the right edge is on every page, always. Zero it --
+   but NEVER touch .lg's width: the width:auto!important is what makes the stage
+   shrink for the floated .lg-exif panel instead of being overlapped by it. */
+.lg-outer .lg {
+  border-right: 0;
+}
+
+/* --- fit: scale the photo UP as well as down ----------------------------- */
+
+/* lightgallery.css:721-728 sizes the photo with
+     max-width:100%; max-height:100%; width:auto!important; height:auto!important
+   and max-* only ever SHRINKS a replaced element. So a 1000px-tall derivative
+   is drawn at 1000px on a 4K screen and sits small in the middle -- the exact
+   opposite of a fullscreen viewing mode. (max-width alone cannot fix it: with
+   height:100% the clamp distorts the aspect ratio rather than reducing height
+   proportionally -- verified in Firefox.)
+   object-fit:contain fills one axis exactly, keeps the ratio, and never crops.
+   The <img> box then spans the whole frame, so assets/immersive.js derives the
+   painted rect from naturalWidth/naturalHeight for its zoom clamp, and
+   reinstates click-the-letterbox-to-close. */
+.lg-outer .lg-image {
+  display: block;
+  width: 100% !important;
+  height: 100% !important;
+  max-width: none;
+  max-height: none;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+/* lightgallery.css:701-707 centres the photo with an inline-block :before of
+   height:50% plus vertical-align:middle. object-fit does the centring now, and
+   that phantom inline box would push the full-height image out of the frame. */
+.lg-outer .lg-item:before,
+.lg-outer .lg-img-wrap:before {
+  display: none;
+}
+
+/* --- no translucent plates over the photo ------------------------------- */
+
+/* lightgallery.css:158-165 (.lg-toolbar) and :189-200 (.lg-sub-html), both
+   rgba(0, 0, 0, .45) */
+.lg-outer .lg-toolbar,
+.lg-outer .lg-sub-html {
+  background-color: transparent;
+}
+
+/* With the plate gone, lightgallery's #999 glyphs disappear against a bright
+   photo. Beats .lg-toolbar .lg-icon (0,2,0) and #lg-counter (1,0,0). */
+.lg-outer .lg-toolbar .lg-icon,
+.lg-outer #lg-counter {
+  color: #fff;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.8);
+}
+
+/* --- no prev/next; navigation is swipe, arrow keys and the wheel --------- */
+
+/* s.controls is consumed in structure() before modules construct, so we cannot
+   turn the markup off from immersive.js -- hide it instead. */
+.lg-outer .lg-actions {
+  display: none;
+}
+
+/* --- chrome inside the safe area, photo edge-to-edge underneath ---------- */
+/* Needs viewport-fit=cover (patchHtml.py sets it). Engines that do not know
+   env() drop these declarations, which degrades to no padding. */
+
+.lg-outer .lg-toolbar {
+  padding-top: env(safe-area-inset-top, 0px);
+  padding-right: env(safe-area-inset-right, 0px);
+  padding-left: env(safe-area-inset-left, 0px);
+}
+
+/* public/core.css:77 forces .lg-sub-html { bottom: 100px } */
+.lg-outer .lg-sub-html {
+  bottom: env(safe-area-inset-bottom, 0px);
+}
+
+/* lg-exif.min.css gives .lg-exif { padding: 1em } */
+.lg-outer .lg-exif {
+  padding-top: calc(1em + env(safe-area-inset-top, 0px));
+}
+
+/* --- auto-hide (immersive.js sets hideBarsDelay to 2500) ----------------- */
+
+/* lightgallery.css:228-241 fades .lg-toolbar to opacity 0 but leaves it
+   hit-testable, so it swallows the very tap meant to bring it back. Letting
+   the tap through means it reaches .lg-outer's click.lg handler, which is what
+   un-hides everything. */
+.lg-outer.lg-hide-items .lg-toolbar {
+  pointer-events: none;
+}
+
+/* lg-hide-items (lightgallery.css:228-241) only fades .lg-toolbar/.lg-prev/.lg-next;
+   it does not cover the thumbnail strip. Fade the strip rather than slide it,
+   because the strip's toggle affordance -- .lg-toogle-thumb, note the library's
+   one-'g' typo -- is appended INSIDE .lg-thumb-outer at top:-39px
+   (lg-thumbnail.js:424, lightgallery.css:343-356) precisely so it stays visible
+   when the strip slides down. Sliding therefore left a dark 39px tab sitting in the
+   corner of otherwise "hidden" chrome. Opacity takes the strip and its tab
+   together, in both the open and the closed state, so no lg-thumb-open qualifier
+   is needed. Deliberately not display:none -- see the fullscreen rule below. */
+.lg-outer.lg-hide-items .lg-thumb-outer {
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* .lg-thumb-outer only transitions `transform` (lightgallery.css:270-275), so the
+   opacity changes above and in the fullscreen rule need their own transition. */
+.lg-outer .lg-thumb-outer {
+  -webkit-transition: -webkit-transform 0.25s cubic-bezier(0, 0, 0.25, 1) 0s,
+                      opacity 0.35s cubic-bezier(0, 0, 0.25, 1) 0s;
+          transition:         transform 0.25s cubic-bezier(0, 0, 0.25, 1) 0s,
+                      opacity 0.35s cubic-bezier(0, 0, 0.25, 1) 0s;
+}
+
+/* --- pinch-zoom transform model (see assets/immersive.js) ---------------- */
+
+/* immersive.js works in `screen = scale * point + translate`, which needs
+   origin 0 0. .lg-img-wrap is position:absolute/inset 0 inside the
+   identity-transformed .lg-item.lg-current, so its local coordinate system is
+   the client coordinate system and the anchor math stays exact.
+   We transform the WRAP, never the <img>: lg-start-zoom styles .lg-object with
+   `transition: transform 250ms !important` (lightgallery.css:244-256), which
+   would make the image lag a quarter second behind the fingers. */
+.lg-outer .lg-img-wrap {
+  -webkit-transform-origin: 0 0;
+          transform-origin: 0 0;
+}
+
+.lg-outer .lg-img-wrap.imm-anim {
+  -webkit-transition: -webkit-transform 250ms cubic-bezier(0.2, 0, 0.2, 1);
+          transition:         transform 250ms cubic-bezier(0.2, 0, 0.2, 1);
+}
+
+/* Only while a gesture runs, so the engine re-rasterises sharply at rest. */
+.lg-outer.imm-active .lg-current .lg-img-wrap {
+  will-change: transform;
+}
+
+/* No browser panning / pinch / double-tap zoom inside the viewer frame.
+   Scoped to .lg deliberately: lg-exif's .lg-exif panel (with the Leaflet map)
+   is a sibling inside .lg-outer, so the map keeps its own gestures. */
+.lg-outer .lg {
+  -ms-touch-action: none;
+      touch-action: none;
+}
+
+/* The long-press "Save Image" sheet and text selection both fight panning. */
+.lg-outer .lg-image {
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  -webkit-touch-callout: none;
+}
+
+/* --- fullscreen --------------------------------------------------------- */
+
+/* Separate rules on purpose: one unknown selector in a comma list invalidates
+   the whole list. */
+html:fullscreen {
+  background: #000;
+}
+html:-webkit-full-screen {
+  background: #000;
+}
+
+/* Fullscreen hides the thumbnail strip too, and restores it on exit.
+   immersive.js's syncFullscreen() maintains lg-fullscreen-on from
+   document.fullscreenElement, and also sets it for the imm-maximise fallback
+   below, so this one rule covers both paths and is symmetric for free.
+   The hook is safe: lg-fullscreen.js is not loaded, so nothing else writes that
+   class, and lightGallery only reads it for the \e20c/\e20d glyph swap
+   (lightgallery.css:599-604).
+
+   opacity, NOT display:none: lg-thumbnail.js:222-226 re-measures
+   `thumbOuterWidth = $thumbOuter.width()` on every resize/orientationchange, and
+   entering or leaving fullscreen fires one. On a display:none element jQuery
+   .width() reports a bogus figure (measured: 100 instead of the real 1366), which
+   corrupts the strip's own scroll clamps (lg-thumbnail.js:253-254, :295, :321,
+   :366, :374, :400) -- and because nothing re-measures again until the next
+   resize, it stays corrupted after leaving fullscreen. opacity keeps layout and
+   measurement intact (verified: still caches 1366 while hidden).
+   (.lg-thumb-outer is position:absolute and lg-can-toggle zeroes .lg-item's
+   bottom padding, so it reserves no space either way -- hiding it cannot reflow
+   the photo.) */
+.lg-outer.lg-fullscreen-on .lg-thumb-outer {
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* CSS-only fallback where Element.requestFullscreen is absent (iPhone Safari
+   before iOS 17.4). We cannot hide the browser chrome, so give the photo
+   everything else. The toolbar stays, so the mode is escapable.
+   The strip is handled by the rule above -- these two have no layout
+   measurement to corrupt, so display:none is fine for them. */
+.lg-outer.imm-maximise .lg-sub-html,
+.lg-outer.imm-maximise #lg-counter {
+  display: none !important;
+}
+
+/* --- album grid (NOT scoped to the viewer) ------------------------------- */
+
+/* apple-mobile-web-app-status-bar-style=black-translucent draws page content
+   under the iOS clock in a home-screen launch. theme.css:39-41 has
+   #container { padding: 2em }. */
+#container {
+  padding-top: calc(2em + env(safe-area-inset-top, 0px));
+  padding-right: calc(2em + env(safe-area-inset-right, 0px));
+  padding-left: calc(2em + env(safe-area-inset-left, 0px));
+}
