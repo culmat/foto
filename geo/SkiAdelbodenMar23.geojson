@@ -1,0 +1,281 @@
+{
+ "type": "FeatureCollection",
+ "album": "SkiAdelbodenMar23",
+ "page": "SkiAdelbodenMar23.html",
+ "mediaDir": "SkiAdelbodenMar23",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5905736,
+     47.5266022,
+     410
+    ]
+   },
+   "properties": {
+    "album": "SkiAdelbodenMar23",
+    "page": "SkiAdelbodenMar23.html",
+    "file": "20230318_064452.jpg",
+    "thumb": "media/thumbs/SkiAdelbodenMar23/20230318_064452.jpg",
+    "small": "media/small/SkiAdelbodenMar23/20230318_064452.jpg",
+    "large": "media/large/SkiAdelbodenMar23/20230318_064452.jpg",
+    "date": "2023-03-18T06:44:52+01:00",
+    "slide": 0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.4943988,
+     46.4625084,
+     2240
+    ]
+   },
+   "properties": {
+    "album": "SkiAdelbodenMar23",
+    "page": "SkiAdelbodenMar23.html",
+    "file": "20230318_152640.jpg",
+    "thumb": "media/thumbs/SkiAdelbodenMar23/20230318_152640.jpg",
+    "small": "media/small/SkiAdelbodenMar23/20230318_152640.jpg",
+    "large": "media/large/SkiAdelbodenMar23/20230318_152640.jpg",
+    "date": "2023-03-18T15:26:57+01:00",
+    "slide": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5185304,
+     46.4755365,
+     1882
+    ]
+   },
+   "properties": {
+    "album": "SkiAdelbodenMar23",
+    "page": "SkiAdelbodenMar23.html",
+    "file": "20230318_161807.jpg",
+    "thumb": "media/thumbs/SkiAdelbodenMar23/20230318_161807.jpg",
+    "small": "media/small/SkiAdelbodenMar23/20230318_161807.jpg",
+    "large": "media/large/SkiAdelbodenMar23/20230318_161807.jpg",
+    "date": "2023-03-18T16:18:07+01:00",
+    "slide": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5185304,
+     46.4755365,
+     1882
+    ]
+   },
+   "properties": {
+    "album": "SkiAdelbodenMar23",
+    "page": "SkiAdelbodenMar23.html",
+    "file": "20230318_161813.jpg",
+    "thumb": "media/thumbs/SkiAdelbodenMar23/20230318_161813.jpg",
+    "small": "media/small/SkiAdelbodenMar23/20230318_161813.jpg",
+    "large": "media/large/SkiAdelbodenMar23/20230318_161813.jpg",
+    "date": "2023-03-18T16:18:13+01:00",
+    "slide": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5185304,
+     46.4755365,
+     1882
+    ]
+   },
+   "properties": {
+    "album": "SkiAdelbodenMar23",
+    "page": "SkiAdelbodenMar23.html",
+    "file": "20230318_161819.jpg",
+    "thumb": "media/thumbs/SkiAdelbodenMar23/20230318_161819.jpg",
+    "small": "media/small/SkiAdelbodenMar23/20230318_161819.jpg",
+    "large": "media/large/SkiAdelbodenMar23/20230318_161819.jpg",
+    "date": "2023-03-18T16:18:19+01:00",
+    "slide": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5177918,
+     46.4719166,
+     2033
+    ]
+   },
+   "properties": {
+    "album": "SkiAdelbodenMar23",
+    "page": "SkiAdelbodenMar23.html",
+    "file": "20230318_162049.jpg",
+    "thumb": "media/thumbs/SkiAdelbodenMar23/20230318_162049.jpg",
+    "small": "media/small/SkiAdelbodenMar23/20230318_162049.jpg",
+    "large": "media/large/SkiAdelbodenMar23/20230318_162049.jpg",
+    "date": "2023-03-18T16:20:49+01:00",
+    "slide": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5176718,
+     46.4717171,
+     2010
+    ]
+   },
+   "properties": {
+    "album": "SkiAdelbodenMar23",
+    "page": "SkiAdelbodenMar23.html",
+    "file": "20230318_162140.jpg",
+    "thumb": "media/thumbs/SkiAdelbodenMar23/20230318_162140.jpg",
+    "small": "media/small/SkiAdelbodenMar23/20230318_162140.jpg",
+    "large": "media/large/SkiAdelbodenMar23/20230318_162140.jpg",
+    "date": "2023-03-18T16:21:41+01:00",
+    "slide": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5176127,
+     46.4714606,
+     2027
+    ]
+   },
+   "properties": {
+    "album": "SkiAdelbodenMar23",
+    "page": "SkiAdelbodenMar23.html",
+    "file": "20230318_162219.jpg",
+    "thumb": "media/thumbs/SkiAdelbodenMar23/20230318_162219.jpg",
+    "small": "media/small/SkiAdelbodenMar23/20230318_162219.jpg",
+    "large": "media/large/SkiAdelbodenMar23/20230318_162219.jpg",
+    "date": "2023-03-18T16:22:20+01:00",
+    "slide": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5176127,
+     46.4714606,
+     2027
+    ]
+   },
+   "properties": {
+    "album": "SkiAdelbodenMar23",
+    "page": "SkiAdelbodenMar23.html",
+    "file": "20230318_162253.jpg",
+    "thumb": "media/thumbs/SkiAdelbodenMar23/20230318_162253.jpg",
+    "small": "media/small/SkiAdelbodenMar23/20230318_162253.jpg",
+    "large": "media/large/SkiAdelbodenMar23/20230318_162253.jpg",
+    "date": "2023-03-18T16:22:53+01:00",
+    "slide": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5673838,
+     46.4842712,
+     1346
+    ]
+   },
+   "properties": {
+    "album": "SkiAdelbodenMar23",
+    "page": "SkiAdelbodenMar23.html",
+    "file": "20230319_073831.jpg",
+    "thumb": "media/thumbs/SkiAdelbodenMar23/20230319_073831.jpg",
+    "small": "media/small/SkiAdelbodenMar23/20230319_073831.jpg",
+    "large": "media/large/SkiAdelbodenMar23/20230319_073831.jpg",
+    "date": "2023-03-19T07:38:31+01:00",
+    "slide": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5673838,
+     46.4842712,
+     1346
+    ]
+   },
+   "properties": {
+    "album": "SkiAdelbodenMar23",
+    "page": "SkiAdelbodenMar23.html",
+    "file": "20230319_073916.jpg",
+    "thumb": "media/thumbs/SkiAdelbodenMar23/20230319_073916.jpg",
+    "small": "media/small/SkiAdelbodenMar23/20230319_073916.jpg",
+    "large": "media/large/SkiAdelbodenMar23/20230319_073916.jpg",
+    "date": "2023-03-19T07:39:22+01:00",
+    "slide": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5673111,
+     46.4841615,
+     1339
+    ]
+   },
+   "properties": {
+    "album": "SkiAdelbodenMar23",
+    "page": "SkiAdelbodenMar23.html",
+    "file": "20230319_073955.jpg",
+    "thumb": "media/thumbs/SkiAdelbodenMar23/20230319_073955.jpg",
+    "small": "media/small/SkiAdelbodenMar23/20230319_073955.jpg",
+    "large": "media/large/SkiAdelbodenMar23/20230319_073955.jpg",
+    "date": "2023-03-19T07:39:55+01:00",
+    "slide": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5673111,
+     46.4841615,
+     1339
+    ]
+   },
+   "properties": {
+    "album": "SkiAdelbodenMar23",
+    "page": "SkiAdelbodenMar23.html",
+    "file": "20230319_074002.jpg",
+    "thumb": "media/thumbs/SkiAdelbodenMar23/20230319_074002.jpg",
+    "small": "media/small/SkiAdelbodenMar23/20230319_074002.jpg",
+    "large": "media/large/SkiAdelbodenMar23/20230319_074002.jpg",
+    "date": "2023-03-19T07:40:02+01:00",
+    "slide": 12
+   }
+  }
+ ]
+}

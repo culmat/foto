@@ -1,0 +1,254 @@
+[
+ {
+  "album": "Innerthal25",
+  "page": "Innerthal25.html",
+  "file": "geo/Innerthal25.geojson",
+  "count": 14,
+  "bbox": [
+   8.927244,
+   47.097153,
+   8.958666,
+   47.103611
+  ],
+  "start": "2025-10-12",
+  "end": "2025-10-12"
+ },
+ {
+  "album": "Peru25",
+  "page": "Peru25.html",
+  "file": "geo/Peru25.geojson",
+  "count": 75,
+  "bbox": [
+   -78.145977,
+   -12.150065,
+   7.592864,
+   47.59733
+  ],
+  "start": "2025-08-18",
+  "end": "2025-09-05"
+ },
+ {
+  "album": "TMR25",
+  "page": "TMR25.html",
+  "file": "geo/TMR25.geojson",
+  "count": 12,
+  "bbox": [
+   7.68667,
+   45.854429,
+   7.872461,
+   45.953813
+  ],
+  "start": "2025-07-29",
+  "end": "2025-07-31"
+ },
+ {
+  "album": "Cagnes25",
+  "page": "Cagnes25.html",
+  "file": "geo/Cagnes25.geojson",
+  "count": 19,
+  "bbox": [
+   6.129769,
+   43.038224,
+   7.668528,
+   43.85179
+  ],
+  "start": "2025-07-19",
+  "end": "2025-07-23"
+ },
+ {
+  "album": "Fastnacht25",
+  "page": "Fastnacht25.html",
+  "file": "geo/Fastnacht25.geojson",
+  "count": 42,
+  "bbox": [
+   7.590907,
+   47.556078,
+   7.59209,
+   47.557017
+  ],
+  "start": "2025-03-11",
+  "end": "2025-03-11"
+ },
+ {
+  "album": "2024-Jul-Seebergsee",
+  "page": "2024-Jul-Seebergsee.html",
+  "file": "geo/2024-Jul-Seebergsee.geojson",
+  "count": 16,
+  "bbox": [
+   7.44488,
+   46.577197,
+   7.448657,
+   46.586072
+  ],
+  "start": "2024-07-07",
+  "end": "2024-07-07"
+ },
+ {
+  "album": "23-01-14",
+  "page": "23-01-14.html",
+  "file": "geo/23-01-14.geojson",
+  "count": 17,
+  "bbox": [
+   7.589401,
+   47.52049,
+   7.592605,
+   47.525449
+  ],
+  "start": "2024-01-14",
+  "end": "2024-01-14"
+ },
+ {
+  "album": "Thomas15",
+  "page": "Thomas15.html",
+  "file": "geo/Thomas15.geojson",
+  "count": 7,
+  "bbox": [
+   7.592577,
+   47.527305,
+   7.592843,
+   47.527376
+  ],
+  "start": "2023-10-21",
+  "end": "2023-10-21"
+ },
+ {
+  "album": "Rosenlaui23",
+  "page": "Rosenlaui23.html",
+  "file": "geo/Rosenlaui23.geojson",
+  "count": 31,
+  "bbox": [
+   8.095673,
+   46.66473,
+   8.308582,
+   47.052615
+  ],
+  "start": "2023-08-30",
+  "end": "2023-08-31"
+ },
+ {
+  "album": "NewYork23",
+  "page": "NewYork23.html",
+  "file": "geo/NewYork23.geojson",
+  "count": 95,
+  "bbox": [
+   -79.07836,
+   40.222599,
+   8.563432,
+   50.045686
+  ],
+  "start": "2023-05-28",
+  "end": "2023-06-10"
+ },
+ {
+  "album": "Paris23",
+  "page": "Paris23.html",
+  "file": "geo/Paris23.geojson",
+  "count": 18,
+  "bbox": [
+   2.272961,
+   47.568566,
+   6.859445,
+   48.861948
+  ],
+  "start": "2023-04-28",
+  "end": "2023-05-01"
+ },
+ {
+  "album": "23-03-31",
+  "page": "23-03-31.html",
+  "file": "geo/23-03-31.geojson",
+  "count": 21,
+  "bbox": [
+   7.587052,
+   47.524665,
+   7.600314,
+   47.53407
+  ],
+  "start": "2023-03-31",
+  "end": "2023-03-31"
+ },
+ {
+  "album": "2022-03-24",
+  "page": "2022-03-24.html",
+  "file": "geo/2022-03-24.geojson",
+  "count": 13,
+  "bbox": [
+   7.592124,
+   47.527135,
+   7.593799,
+   47.528243
+  ],
+  "start": "2023-03-24",
+  "end": "2023-03-24"
+ },
+ {
+  "album": "SkiAdelbodenMar23",
+  "page": "SkiAdelbodenMar23.html",
+  "file": "geo/SkiAdelbodenMar23.geojson",
+  "count": 13,
+  "bbox": [
+   7.494399,
+   46.462508,
+   7.590574,
+   47.526602
+  ],
+  "start": "2023-03-18",
+  "end": "2023-03-19"
+ },
+ {
+  "album": "Fastnacht23",
+  "page": "Fastnacht23.html",
+  "file": "geo/Fastnacht23.geojson",
+  "count": 15,
+  "bbox": [
+   7.588832,
+   47.553917,
+   7.59179,
+   47.5563
+  ],
+  "start": "2023-02-28",
+  "end": "2023-03-02"
+ },
+ {
+  "album": "SkiEngelbergFeb23",
+  "page": "SkiEngelbergFeb23.html",
+  "file": "geo/SkiEngelbergFeb23.geojson",
+  "count": 3,
+  "bbox": [
+   8.400729,
+   46.822478,
+   8.401433,
+   46.822964
+  ],
+  "start": "2023-02-19",
+  "end": "2023-02-19"
+ },
+ {
+  "album": "SkiGrandBornand22-23",
+  "page": "SkiGrandBornand22-23.html",
+  "file": "geo/SkiGrandBornand22-23.geojson",
+  "count": 13,
+  "bbox": [
+   6.440667,
+   45.959685,
+   6.497377,
+   45.973749
+  ],
+  "start": "2022-12-31",
+  "end": "2023-01-05"
+ },
+ {
+  "album": "Décembre22",
+  "page": "Decembre22.html",
+  "file": "geo/Decembre22.geojson",
+  "count": 15,
+  "bbox": [
+   7.591832,
+   47.522295,
+   7.593022,
+   47.527199
+  ],
+  "start": "2022-12-18",
+  "end": "2022-12-18"
+ }
+]

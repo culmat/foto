@@ -1,0 +1,155 @@
+{
+ "type": "FeatureCollection",
+ "album": "Thomas15",
+ "page": "Thomas15.html",
+ "mediaDir": "Thomas15",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5928386,
+     47.5273082,
+     404
+    ]
+   },
+   "properties": {
+    "album": "Thomas15",
+    "page": "Thomas15.html",
+    "file": "20231021_100533.jpg",
+    "thumb": "media/thumbs/Thomas15/20231021_100533.jpg",
+    "small": "media/small/Thomas15/20231021_100533.jpg",
+    "large": "media/large/Thomas15/20231021_100533.jpg",
+    "date": "2023-10-21T10:05:33+02:00",
+    "slide": 0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.592842,
+     47.527311,
+     404
+    ]
+   },
+   "properties": {
+    "album": "Thomas15",
+    "page": "Thomas15.html",
+    "file": "20231021_100543.jpg",
+    "thumb": "media/thumbs/Thomas15/20231021_100543.jpg",
+    "small": "media/small/Thomas15/20231021_100543.jpg",
+    "large": "media/large/Thomas15/20231021_100543.jpg",
+    "date": "2023-10-21T10:05:43+02:00",
+    "slide": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5925767,
+     47.5273763,
+     467
+    ]
+   },
+   "properties": {
+    "album": "Thomas15",
+    "page": "Thomas15.html",
+    "file": "20231021_101639.jpg",
+    "thumb": "media/thumbs/Thomas15/20231021_101639.jpg",
+    "small": "media/small/Thomas15/20231021_101639.jpg",
+    "large": "media/large/Thomas15/20231021_101639.jpg",
+    "date": "2023-10-21T10:16:39+02:00",
+    "slide": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.592839,
+     47.527309,
+     404
+    ]
+   },
+   "properties": {
+    "album": "Thomas15",
+    "page": "Thomas15.html",
+    "file": "20231021_135202.jpg",
+    "thumb": "media/thumbs/Thomas15/20231021_135202.jpg",
+    "small": "media/small/Thomas15/20231021_135202.jpg",
+    "large": "media/large/Thomas15/20231021_135202.jpg",
+    "date": "2023-10-21T13:52:02+02:00",
+    "slide": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.592839,
+     47.527309,
+     404
+    ]
+   },
+   "properties": {
+    "album": "Thomas15",
+    "page": "Thomas15.html",
+    "file": "20231021_135207.jpg",
+    "thumb": "media/thumbs/Thomas15/20231021_135207.jpg",
+    "small": "media/small/Thomas15/20231021_135207.jpg",
+    "large": "media/large/Thomas15/20231021_135207.jpg",
+    "date": "2023-10-21T13:52:07+02:00",
+    "slide": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5928395,
+     47.527309,
+     404
+    ]
+   },
+   "properties": {
+    "album": "Thomas15",
+    "page": "Thomas15.html",
+    "file": "20231021_182809.jpg",
+    "thumb": "media/thumbs/Thomas15/20231021_182809.jpg",
+    "small": "media/small/Thomas15/20231021_182809.jpg",
+    "large": "media/large/Thomas15/20231021_182809.jpg",
+    "date": "2023-10-21T18:28:09+02:00",
+    "slide": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5928427,
+     47.5273053,
+     404
+    ]
+   },
+   "properties": {
+    "album": "Thomas15",
+    "page": "Thomas15.html",
+    "file": "20231021_183257.jpg",
+    "thumb": "media/thumbs/Thomas15/20231021_183257.jpg",
+    "small": "media/small/Thomas15/20231021_183257.jpg",
+    "large": "media/large/Thomas15/20231021_183257.jpg",
+    "date": "2023-10-21T18:32:58+02:00",
+    "slide": 6
+   }
+  }
+ ]
+}

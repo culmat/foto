@@ -1,0 +1,71 @@
+{
+ "type": "FeatureCollection",
+ "album": "SkiEngelbergFeb23",
+ "page": "SkiEngelbergFeb23.html",
+ "mediaDir": "SkiEngelbergFeb23",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.4007289,
+     46.822964,
+     1117
+    ]
+   },
+   "properties": {
+    "album": "SkiEngelbergFeb23",
+    "page": "SkiEngelbergFeb23.html",
+    "file": "20230219_081352.jpg",
+    "thumb": "media/thumbs/SkiEngelbergFeb23/20230219_081352.jpg",
+    "small": "media/small/SkiEngelbergFeb23/20230219_081352.jpg",
+    "large": "media/large/SkiEngelbergFeb23/20230219_081352.jpg",
+    "date": "2023-02-19T08:13:53+01:00",
+    "slide": 0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.4009782,
+     46.8226651,
+     1116
+    ]
+   },
+   "properties": {
+    "album": "SkiEngelbergFeb23",
+    "page": "SkiEngelbergFeb23.html",
+    "file": "20230219_093452.jpg",
+    "thumb": "media/thumbs/SkiEngelbergFeb23/20230219_093452.jpg",
+    "small": "media/small/SkiEngelbergFeb23/20230219_093452.jpg",
+    "large": "media/large/SkiEngelbergFeb23/20230219_093452.jpg",
+    "date": "2023-02-19T09:35:17+01:00",
+    "slide": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.4014331,
+     46.8224781,
+     1124
+    ]
+   },
+   "properties": {
+    "album": "SkiEngelbergFeb23",
+    "page": "SkiEngelbergFeb23.html",
+    "file": "20230219_093927.jpg",
+    "thumb": "media/thumbs/SkiEngelbergFeb23/20230219_093927.jpg",
+    "small": "media/small/SkiEngelbergFeb23/20230219_093927.jpg",
+    "large": "media/large/SkiEngelbergFeb23/20230219_093927.jpg",
+    "date": "2023-02-19T09:39:27+01:00",
+    "slide": 2
+   }
+  }
+ ]
+}

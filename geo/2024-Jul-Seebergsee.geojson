@@ -1,0 +1,343 @@
+{
+ "type": "FeatureCollection",
+ "album": "2024-Jul-Seebergsee",
+ "page": "2024-Jul-Seebergsee.html",
+ "mediaDir": "2024-Jul-Seebergsee",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.444914,
+     46.5786438,
+     1875
+    ]
+   },
+   "properties": {
+    "album": "2024-Jul-Seebergsee",
+    "page": "2024-Jul-Seebergsee.html",
+    "file": "20240707_150130.jpg",
+    "thumb": "media/thumbs/2024-Jul-Seebergsee/20240707_150130.jpg",
+    "small": "media/small/2024-Jul-Seebergsee/20240707_150130.jpg",
+    "large": "media/large/2024-Jul-Seebergsee/20240707_150130.jpg",
+    "slide": 13
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.4477786,
+     46.583671,
+     1821
+    ]
+   },
+   "properties": {
+    "album": "2024-Jul-Seebergsee",
+    "page": "2024-Jul-Seebergsee.html",
+    "file": "20240707_123328.jpg",
+    "thumb": "media/thumbs/2024-Jul-Seebergsee/20240707_123328.jpg",
+    "small": "media/small/2024-Jul-Seebergsee/20240707_123328.jpg",
+    "large": "media/large/2024-Jul-Seebergsee/20240707_123328.jpg",
+    "date": "2024-07-07T12:33:28+02:00",
+    "slide": 0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.4476774,
+     46.5818653,
+     1856
+    ]
+   },
+   "properties": {
+    "album": "2024-Jul-Seebergsee",
+    "page": "2024-Jul-Seebergsee.html",
+    "file": "20240707_124154.jpg",
+    "thumb": "media/thumbs/2024-Jul-Seebergsee/20240707_124154.jpg",
+    "small": "media/small/2024-Jul-Seebergsee/20240707_124154.jpg",
+    "large": "media/large/2024-Jul-Seebergsee/20240707_124154.jpg",
+    "date": "2024-07-07T12:41:54+02:00",
+    "slide": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.4486572,
+     46.5822546,
+     1868
+    ]
+   },
+   "properties": {
+    "album": "2024-Jul-Seebergsee",
+    "page": "2024-Jul-Seebergsee.html",
+    "file": "20240707_125224.jpg",
+    "thumb": "media/thumbs/2024-Jul-Seebergsee/20240707_125224.jpg",
+    "small": "media/small/2024-Jul-Seebergsee/20240707_125224.jpg",
+    "large": "media/large/2024-Jul-Seebergsee/20240707_125224.jpg",
+    "date": "2024-07-07T12:52:24+02:00",
+    "slide": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.4457819,
+     46.5801466,
+     1878
+    ]
+   },
+   "properties": {
+    "album": "2024-Jul-Seebergsee",
+    "page": "2024-Jul-Seebergsee.html",
+    "file": "20240707_140939.jpg",
+    "thumb": "media/thumbs/2024-Jul-Seebergsee/20240707_140939.jpg",
+    "small": "media/small/2024-Jul-Seebergsee/20240707_140939.jpg",
+    "large": "media/large/2024-Jul-Seebergsee/20240707_140939.jpg",
+    "date": "2024-07-07T14:09:40+02:00",
+    "slide": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.4453408,
+     46.579864,
+     1881
+    ]
+   },
+   "properties": {
+    "album": "2024-Jul-Seebergsee",
+    "page": "2024-Jul-Seebergsee.html",
+    "file": "20240707_141207.jpg",
+    "thumb": "media/thumbs/2024-Jul-Seebergsee/20240707_141207.jpg",
+    "small": "media/small/2024-Jul-Seebergsee/20240707_141207.jpg",
+    "large": "media/large/2024-Jul-Seebergsee/20240707_141207.jpg",
+    "date": "2024-07-07T14:12:07+02:00",
+    "slide": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.4458106,
+     46.5785944,
+     1904
+    ]
+   },
+   "properties": {
+    "album": "2024-Jul-Seebergsee",
+    "page": "2024-Jul-Seebergsee.html",
+    "file": "20240707_142802.jpg",
+    "thumb": "media/thumbs/2024-Jul-Seebergsee/20240707_142802.jpg",
+    "small": "media/small/2024-Jul-Seebergsee/20240707_142802.jpg",
+    "large": "media/large/2024-Jul-Seebergsee/20240707_142802.jpg",
+    "date": "2024-07-07T14:28:02+02:00",
+    "slide": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.4458821,
+     46.5773774,
+     1887
+    ]
+   },
+   "properties": {
+    "album": "2024-Jul-Seebergsee",
+    "page": "2024-Jul-Seebergsee.html",
+    "file": "20240707_143027.jpg",
+    "thumb": "media/thumbs/2024-Jul-Seebergsee/20240707_143027.jpg",
+    "small": "media/small/2024-Jul-Seebergsee/20240707_143027.jpg",
+    "large": "media/large/2024-Jul-Seebergsee/20240707_143027.jpg",
+    "date": "2024-07-07T14:30:28+02:00",
+    "slide": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.4458821,
+     46.5773774,
+     1887
+    ]
+   },
+   "properties": {
+    "album": "2024-Jul-Seebergsee",
+    "page": "2024-Jul-Seebergsee.html",
+    "file": "20240707_143057.jpg",
+    "thumb": "media/thumbs/2024-Jul-Seebergsee/20240707_143057.jpg",
+    "small": "media/small/2024-Jul-Seebergsee/20240707_143057.jpg",
+    "large": "media/large/2024-Jul-Seebergsee/20240707_143057.jpg",
+    "date": "2024-07-07T14:30:57+02:00",
+    "slide": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.4455566,
+     46.5771973,
+     1897
+    ]
+   },
+   "properties": {
+    "album": "2024-Jul-Seebergsee",
+    "page": "2024-Jul-Seebergsee.html",
+    "file": "20240707_143449.jpg",
+    "thumb": "media/thumbs/2024-Jul-Seebergsee/20240707_143449.jpg",
+    "small": "media/small/2024-Jul-Seebergsee/20240707_143449.jpg",
+    "large": "media/large/2024-Jul-Seebergsee/20240707_143449.jpg",
+    "date": "2024-07-07T14:34:49+02:00",
+    "slide": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.4457976,
+     46.5775097,
+     1901
+    ]
+   },
+   "properties": {
+    "album": "2024-Jul-Seebergsee",
+    "page": "2024-Jul-Seebergsee.html",
+    "file": "20240707_143649.jpg",
+    "thumb": "media/thumbs/2024-Jul-Seebergsee/20240707_143649.jpg",
+    "small": "media/small/2024-Jul-Seebergsee/20240707_143649.jpg",
+    "large": "media/large/2024-Jul-Seebergsee/20240707_143649.jpg",
+    "date": "2024-07-07T14:36:49+02:00",
+    "slide": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.4458496,
+     46.5772203,
+     1893
+    ]
+   },
+   "properties": {
+    "album": "2024-Jul-Seebergsee",
+    "page": "2024-Jul-Seebergsee.html",
+    "file": "20240707_145320.jpg",
+    "thumb": "media/thumbs/2024-Jul-Seebergsee/20240707_145320.jpg",
+    "small": "media/small/2024-Jul-Seebergsee/20240707_145320.jpg",
+    "large": "media/large/2024-Jul-Seebergsee/20240707_145320.jpg",
+    "date": "2024-07-07T14:53:20+02:00",
+    "slide": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.445298,
+     46.5784183,
+     1892
+    ]
+   },
+   "properties": {
+    "album": "2024-Jul-Seebergsee",
+    "page": "2024-Jul-Seebergsee.html",
+    "file": "20240707_145951.jpg",
+    "thumb": "media/thumbs/2024-Jul-Seebergsee/20240707_145951.jpg",
+    "small": "media/small/2024-Jul-Seebergsee/20240707_145951.jpg",
+    "large": "media/large/2024-Jul-Seebergsee/20240707_145951.jpg",
+    "date": "2024-07-07T14:59:51+02:00",
+    "slide": 12
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.4448802,
+     46.5794206,
+     1883
+    ]
+   },
+   "properties": {
+    "album": "2024-Jul-Seebergsee",
+    "page": "2024-Jul-Seebergsee.html",
+    "file": "20240707_150445.jpg",
+    "thumb": "media/thumbs/2024-Jul-Seebergsee/20240707_150445.jpg",
+    "small": "media/small/2024-Jul-Seebergsee/20240707_150445.jpg",
+    "large": "media/large/2024-Jul-Seebergsee/20240707_150445.jpg",
+    "date": "2024-07-07T15:04:46+02:00",
+    "slide": 14
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.4485092,
+     46.5820753,
+     1844
+    ]
+   },
+   "properties": {
+    "album": "2024-Jul-Seebergsee",
+    "page": "2024-Jul-Seebergsee.html",
+    "file": "20240707_151544.jpg",
+    "thumb": "media/thumbs/2024-Jul-Seebergsee/20240707_151544.jpg",
+    "small": "media/small/2024-Jul-Seebergsee/20240707_151544.jpg",
+    "large": "media/large/2024-Jul-Seebergsee/20240707_151544.jpg",
+    "date": "2024-07-07T15:15:45+02:00",
+    "slide": 15
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.4483603,
+     46.5860724,
+     1805
+    ]
+   },
+   "properties": {
+    "album": "2024-Jul-Seebergsee",
+    "page": "2024-Jul-Seebergsee.html",
+    "file": "20240707_153235.jpg",
+    "thumb": "media/thumbs/2024-Jul-Seebergsee/20240707_153235.jpg",
+    "small": "media/small/2024-Jul-Seebergsee/20240707_153235.jpg",
+    "large": "media/large/2024-Jul-Seebergsee/20240707_153235.jpg",
+    "date": "2024-07-07T15:32:35+02:00",
+    "slide": 16
+   }
+  }
+ ]
+}

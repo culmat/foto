@@ -1,0 +1,278 @@
+{
+ "type": "FeatureCollection",
+ "album": "2022-03-24",
+ "page": "2022-03-24.html",
+ "mediaDir": "2022-03-24",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5932355,
+     47.5271355,
+     405
+    ]
+   },
+   "properties": {
+    "album": "2022-03-24",
+    "page": "2022-03-24.html",
+    "file": "20230324_181616.jpg",
+    "thumb": "media/thumbs/2022-03-24/20230324_181616.jpg",
+    "small": "media/small/2022-03-24/20230324_181616.jpg",
+    "large": "media/large/2022-03-24/20230324_181616.jpg",
+    "slide": 0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5924751,
+     47.5282428,
+     394
+    ]
+   },
+   "properties": {
+    "album": "2022-03-24",
+    "page": "2022-03-24.html",
+    "file": "20230324_184007.jpg",
+    "thumb": "media/thumbs/2022-03-24/20230324_184007.jpg",
+    "small": "media/small/2022-03-24/20230324_184007.jpg",
+    "large": "media/large/2022-03-24/20230324_184007.jpg",
+    "slide": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5928895,
+     47.527874,
+     400
+    ]
+   },
+   "properties": {
+    "album": "2022-03-24",
+    "page": "2022-03-24.html",
+    "file": "20230324_184514.jpg",
+    "thumb": "media/thumbs/2022-03-24/20230324_184514.jpg",
+    "small": "media/small/2022-03-24/20230324_184514.jpg",
+    "large": "media/large/2022-03-24/20230324_184514.jpg",
+    "slide": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.59302,
+     47.5271489,
+     404
+    ]
+   },
+   "properties": {
+    "album": "2022-03-24",
+    "page": "2022-03-24.html",
+    "file": "20230324_183324.jpg",
+    "thumb": "media/thumbs/2022-03-24/20230324_183324.jpg",
+    "small": "media/small/2022-03-24/20230324_183324.jpg",
+    "large": "media/large/2022-03-24/20230324_183324.jpg",
+    "date": "2023-03-24T18:33:25+01:00",
+    "slide": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5931472,
+     47.5272332,
+     401
+    ]
+   },
+   "properties": {
+    "album": "2022-03-24",
+    "page": "2022-03-24.html",
+    "file": "20230324_183442.jpg",
+    "thumb": "media/thumbs/2022-03-24/20230324_183442.jpg",
+    "small": "media/small/2022-03-24/20230324_183442.jpg",
+    "large": "media/large/2022-03-24/20230324_183442.jpg",
+    "date": "2023-03-24T18:34:42+01:00",
+    "slide": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5921241,
+     47.5277712,
+     404
+    ]
+   },
+   "properties": {
+    "album": "2022-03-24",
+    "page": "2022-03-24.html",
+    "file": "20230324_183743.jpg",
+    "thumb": "media/thumbs/2022-03-24/20230324_183743.jpg",
+    "small": "media/small/2022-03-24/20230324_183743.jpg",
+    "large": "media/large/2022-03-24/20230324_183743.jpg",
+    "date": "2023-03-24T18:37:54+01:00",
+    "slide": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5924751,
+     47.5282428,
+     394
+    ]
+   },
+   "properties": {
+    "album": "2022-03-24",
+    "page": "2022-03-24.html",
+    "file": "20230324_184043.jpg",
+    "thumb": "media/thumbs/2022-03-24/20230324_184043.jpg",
+    "small": "media/small/2022-03-24/20230324_184043.jpg",
+    "large": "media/large/2022-03-24/20230324_184043.jpg",
+    "date": "2023-03-24T18:41:13+01:00",
+    "slide": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5925461,
+     47.52796,
+     423
+    ]
+   },
+   "properties": {
+    "album": "2022-03-24",
+    "page": "2022-03-24.html",
+    "file": "20230324_184220.jpg",
+    "thumb": "media/thumbs/2022-03-24/20230324_184220.jpg",
+    "small": "media/small/2022-03-24/20230324_184220.jpg",
+    "large": "media/large/2022-03-24/20230324_184220.jpg",
+    "date": "2023-03-24T18:42:21+01:00",
+    "slide": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5926544,
+     47.5279674,
+     400
+    ]
+   },
+   "properties": {
+    "album": "2022-03-24",
+    "page": "2022-03-24.html",
+    "file": "20230324_184415.jpg",
+    "thumb": "media/thumbs/2022-03-24/20230324_184415.jpg",
+    "small": "media/small/2022-03-24/20230324_184415.jpg",
+    "large": "media/large/2022-03-24/20230324_184415.jpg",
+    "date": "2023-03-24T18:44:23+01:00",
+    "slide": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5928895,
+     47.527874,
+     400
+    ]
+   },
+   "properties": {
+    "album": "2022-03-24",
+    "page": "2022-03-24.html",
+    "file": "20230324_184454.jpg",
+    "thumb": "media/thumbs/2022-03-24/20230324_184454.jpg",
+    "small": "media/small/2022-03-24/20230324_184454.jpg",
+    "large": "media/large/2022-03-24/20230324_184454.jpg",
+    "date": "2023-03-24T18:44:54+01:00",
+    "slide": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5937988,
+     47.5278902,
+     419
+    ]
+   },
+   "properties": {
+    "album": "2022-03-24",
+    "page": "2022-03-24.html",
+    "file": "20230324_184648.jpg",
+    "thumb": "media/thumbs/2022-03-24/20230324_184648.jpg",
+    "small": "media/small/2022-03-24/20230324_184648.jpg",
+    "large": "media/large/2022-03-24/20230324_184648.jpg",
+    "date": "2023-03-24T18:46:48+01:00",
+    "slide": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5935581,
+     47.527774,
+     426
+    ]
+   },
+   "properties": {
+    "album": "2022-03-24",
+    "page": "2022-03-24.html",
+    "file": "20230324_184829 (copy).jpg",
+    "thumb": "media/thumbs/2022-03-24/20230324_184829 (copy).jpg",
+    "small": "media/small/2022-03-24/20230324_184829 (copy).jpg",
+    "large": "media/large/2022-03-24/20230324_184829 (copy).jpg",
+    "date": "2023-03-24T18:48:29+01:00",
+    "slide": 12
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5935581,
+     47.527774,
+     426
+    ]
+   },
+   "properties": {
+    "album": "2022-03-24",
+    "page": "2022-03-24.html",
+    "file": "20230324_184829.jpg",
+    "thumb": "media/thumbs/2022-03-24/20230324_184829.jpg",
+    "small": "media/small/2022-03-24/20230324_184829.jpg",
+    "large": "media/large/2022-03-24/20230324_184829.jpg",
+    "date": "2023-03-24T18:48:29+01:00",
+    "slide": 11
+   }
+  }
+ ]
+}

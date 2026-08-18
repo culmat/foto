@@ -1,0 +1,323 @@
+{
+ "type": "FeatureCollection",
+ "album": "Fastnacht23",
+ "page": "Fastnacht23.html",
+ "mediaDir": "Fastnacht23",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5916923,
+     47.5561555,
+     317
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht23",
+    "page": "Fastnacht23.html",
+    "file": "20230228_192358.jpg",
+    "thumb": "media/thumbs/Fastnacht23/20230228_192358.jpg",
+    "small": "media/small/Fastnacht23/20230228_192358.jpg",
+    "large": "media/large/Fastnacht23/20230228_192358.jpg",
+    "date": "2023-02-28T19:23:58+01:00",
+    "slide": 23
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5917688,
+     47.5562682,
+     393
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht23",
+    "page": "Fastnacht23.html",
+    "file": "20230228_192431.jpg",
+    "thumb": "media/thumbs/Fastnacht23/20230228_192431.jpg",
+    "small": "media/small/Fastnacht23/20230228_192431.jpg",
+    "large": "media/large/Fastnacht23/20230228_192431.jpg",
+    "date": "2023-02-28T19:24:32+01:00",
+    "slide": 24
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5915964,
+     47.5560907,
+     335
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht23",
+    "page": "Fastnacht23.html",
+    "file": "20230228_192537.jpg",
+    "thumb": "media/thumbs/Fastnacht23/20230228_192537.jpg",
+    "small": "media/small/Fastnacht23/20230228_192537.jpg",
+    "large": "media/large/Fastnacht23/20230228_192537.jpg",
+    "date": "2023-02-28T19:25:38+01:00",
+    "slide": 25
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5917873,
+     47.5560387,
+     341
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht23",
+    "page": "Fastnacht23.html",
+    "file": "20230228_192621.jpg",
+    "thumb": "media/thumbs/Fastnacht23/20230228_192621.jpg",
+    "small": "media/small/Fastnacht23/20230228_192621.jpg",
+    "large": "media/large/Fastnacht23/20230228_192621.jpg",
+    "date": "2023-02-28T19:26:21+01:00",
+    "slide": 26
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5917873,
+     47.5560387,
+     341
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht23",
+    "page": "Fastnacht23.html",
+    "file": "20230228_192648.jpg",
+    "thumb": "media/thumbs/Fastnacht23/20230228_192648.jpg",
+    "small": "media/small/Fastnacht23/20230228_192648.jpg",
+    "large": "media/large/Fastnacht23/20230228_192648.jpg",
+    "date": "2023-02-28T19:26:48+01:00",
+    "slide": 27
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5917873,
+     47.5560387,
+     341
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht23",
+    "page": "Fastnacht23.html",
+    "file": "20230228_192654.jpg",
+    "thumb": "media/thumbs/Fastnacht23/20230228_192654.jpg",
+    "small": "media/small/Fastnacht23/20230228_192654.jpg",
+    "large": "media/large/Fastnacht23/20230228_192654.jpg",
+    "date": "2023-02-28T19:26:54+01:00",
+    "slide": 28
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5917873,
+     47.5560387,
+     341
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht23",
+    "page": "Fastnacht23.html",
+    "file": "20230228_192729.jpg",
+    "thumb": "media/thumbs/Fastnacht23/20230228_192729.jpg",
+    "small": "media/small/Fastnacht23/20230228_192729.jpg",
+    "large": "media/large/Fastnacht23/20230228_192729.jpg",
+    "date": "2023-02-28T19:27:29+01:00",
+    "slide": 29
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5917873,
+     47.5560387,
+     341
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht23",
+    "page": "Fastnacht23.html",
+    "file": "20230228_192737.jpg",
+    "thumb": "media/thumbs/Fastnacht23/20230228_192737.jpg",
+    "small": "media/small/Fastnacht23/20230228_192737.jpg",
+    "large": "media/large/Fastnacht23/20230228_192737.jpg",
+    "date": "2023-02-28T19:27:37+01:00",
+    "slide": 30
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5917873,
+     47.5560387,
+     341
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht23",
+    "page": "Fastnacht23.html",
+    "file": "20230228_192746.jpg",
+    "thumb": "media/thumbs/Fastnacht23/20230228_192746.jpg",
+    "small": "media/small/Fastnacht23/20230228_192746.jpg",
+    "large": "media/large/Fastnacht23/20230228_192746.jpg",
+    "date": "2023-02-28T19:27:50+01:00",
+    "slide": 31
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5917638,
+     47.5563001,
+     327
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht23",
+    "page": "Fastnacht23.html",
+    "file": "20230228_192830.jpg",
+    "thumb": "media/thumbs/Fastnacht23/20230228_192830.jpg",
+    "small": "media/small/Fastnacht23/20230228_192830.jpg",
+    "large": "media/large/Fastnacht23/20230228_192830.jpg",
+    "date": "2023-02-28T19:28:31+01:00",
+    "slide": 32
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5917901,
+     47.556058,
+     322
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht23",
+    "page": "Fastnacht23.html",
+    "file": "20230228_193020.jpg",
+    "thumb": "media/thumbs/Fastnacht23/20230228_193020.jpg",
+    "small": "media/small/Fastnacht23/20230228_193020.jpg",
+    "large": "media/large/Fastnacht23/20230228_193020.jpg",
+    "date": "2023-02-28T19:30:20+01:00",
+    "slide": 33
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5917901,
+     47.556058,
+     322
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht23",
+    "page": "Fastnacht23.html",
+    "file": "20230228_193040.jpg",
+    "thumb": "media/thumbs/Fastnacht23/20230228_193040.jpg",
+    "small": "media/small/Fastnacht23/20230228_193040.jpg",
+    "large": "media/large/Fastnacht23/20230228_193040.jpg",
+    "date": "2023-02-28T19:30:40+01:00",
+    "slide": 34
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5888318,
+     47.5539174,
+     295
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht23",
+    "page": "Fastnacht23.html",
+    "file": "20230301_182430.jpg",
+    "thumb": "media/thumbs/Fastnacht23/20230301_182430.jpg",
+    "small": "media/small/Fastnacht23/20230301_182430.jpg",
+    "large": "media/large/Fastnacht23/20230301_182430.jpg",
+    "date": "2023-03-01T18:24:30+01:00",
+    "slide": 35
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5888318,
+     47.5539174,
+     295
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht23",
+    "page": "Fastnacht23.html",
+    "file": "20230301_182437.jpg",
+    "thumb": "media/thumbs/Fastnacht23/20230301_182437.jpg",
+    "small": "media/small/Fastnacht23/20230301_182437.jpg",
+    "large": "media/large/Fastnacht23/20230301_182437.jpg",
+    "date": "2023-03-01T18:24:37+01:00",
+    "slide": 36
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5892583,
+     47.5544089,
+     316
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht23",
+    "page": "Fastnacht23.html",
+    "file": "20230302_024350.jpg",
+    "thumb": "media/thumbs/Fastnacht23/20230302_024350.jpg",
+    "small": "media/small/Fastnacht23/20230302_024350.jpg",
+    "large": "media/large/Fastnacht23/20230302_024350.jpg",
+    "date": "2023-03-02T02:43:51+01:00",
+    "slide": 37
+   }
+  }
+ ]
+}

@@ -1,0 +1,659 @@
+{
+ "type": "FeatureCollection",
+ "album": "Rosenlaui23",
+ "page": "Rosenlaui23.html",
+ "mediaDir": "Rosenlaui23",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.307272,
+     47.0514354,
+     491
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230830_114635.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230830_114635.jpg",
+    "small": "media/small/Rosenlaui23/20230830_114635.jpg",
+    "large": "media/large/Rosenlaui23/20230830_114635.jpg",
+    "date": "2023-08-30T11:46:48+02:00",
+    "slide": 0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.3085815,
+     47.0526152,
+     474
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230830_115136.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230830_115136.jpg",
+    "small": "media/small/Rosenlaui23/20230830_115136.jpg",
+    "large": "media/large/Rosenlaui23/20230830_115136.jpg",
+    "date": "2023-08-30T11:51:36+02:00",
+    "slide": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.1599303,
+     46.6751043,
+     1547
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230830_144005.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230830_144005.jpg",
+    "small": "media/small/Rosenlaui23/20230830_144005.jpg",
+    "large": "media/large/Rosenlaui23/20230830_144005.jpg",
+    "date": "2023-08-30T14:40:16+02:00",
+    "slide": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.1608875,
+     46.672762,
+     1660
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230830_145958.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230830_145958.jpg",
+    "small": "media/small/Rosenlaui23/20230830_145958.jpg",
+    "large": "media/large/Rosenlaui23/20230830_145958.jpg",
+    "date": "2023-08-30T14:59:58+02:00",
+    "slide": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.1606673,
+     46.6726867,
+     1642
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230830_150143.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230830_150143.jpg",
+    "small": "media/small/Rosenlaui23/20230830_150143.jpg",
+    "large": "media/large/Rosenlaui23/20230830_150143.jpg",
+    "date": "2023-08-30T15:01:43+02:00",
+    "slide": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.1603187,
+     46.6749599,
+     1601
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230830_151020.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230830_151020.jpg",
+    "small": "media/small/Rosenlaui23/20230830_151020.jpg",
+    "large": "media/large/Rosenlaui23/20230830_151020.jpg",
+    "date": "2023-08-30T15:10:20+02:00",
+    "slide": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.1631066,
+     46.6758787,
+     1687
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230830_152453.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230830_152453.jpg",
+    "small": "media/small/Rosenlaui23/20230830_152453.jpg",
+    "large": "media/large/Rosenlaui23/20230830_152453.jpg",
+    "date": "2023-08-30T15:24:53+02:00",
+    "slide": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.1645392,
+     46.6768265,
+     1734
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230830_154205.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230830_154205.jpg",
+    "small": "media/small/Rosenlaui23/20230830_154205.jpg",
+    "large": "media/large/Rosenlaui23/20230830_154205.jpg",
+    "date": "2023-08-30T15:42:06+02:00",
+    "slide": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.1733743,
+     46.682773,
+     2033
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230830_164845.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230830_164845.jpg",
+    "small": "media/small/Rosenlaui23/20230830_164845.jpg",
+    "large": "media/large/Rosenlaui23/20230830_164845.jpg",
+    "date": "2023-08-30T16:48:45+02:00",
+    "slide": 12
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.1750303,
+     46.6817755,
+     2042
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230830_165324.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230830_165324.jpg",
+    "small": "media/small/Rosenlaui23/20230830_165324.jpg",
+    "large": "media/large/Rosenlaui23/20230830_165324.jpg",
+    "date": "2023-08-30T16:53:24+02:00",
+    "slide": 13
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.1751832,
+     46.6818679,
+     2016
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230830_165426.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230830_165426.jpg",
+    "small": "media/small/Rosenlaui23/20230830_165426.jpg",
+    "large": "media/large/Rosenlaui23/20230830_165426.jpg",
+    "date": "2023-08-30T16:54:37+02:00",
+    "slide": 14
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.1752841,
+     46.6817329,
+     2071
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230830_165813.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230830_165813.jpg",
+    "small": "media/small/Rosenlaui23/20230830_165813.jpg",
+    "large": "media/large/Rosenlaui23/20230830_165813.jpg",
+    "date": "2023-08-30T16:58:13+02:00",
+    "slide": 15
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.1762218,
+     46.6797046,
+     2153
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230830_170900.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230830_170900.jpg",
+    "small": "media/small/Rosenlaui23/20230830_170900.jpg",
+    "large": "media/large/Rosenlaui23/20230830_170900.jpg",
+    "date": "2023-08-30T17:09:01+02:00",
+    "slide": 16
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.1759117,
+     46.6791582,
+     2548
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230830_171324.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230830_171324.jpg",
+    "small": "media/small/Rosenlaui23/20230830_171324.jpg",
+    "large": "media/large/Rosenlaui23/20230830_171324.jpg",
+    "date": "2023-08-30T17:13:43+02:00",
+    "slide": 17
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.1779305,
+     46.6781045,
+     2102
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230830_171655.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230830_171655.jpg",
+    "small": "media/small/Rosenlaui23/20230830_171655.jpg",
+    "large": "media/large/Rosenlaui23/20230830_171655.jpg",
+    "date": "2023-08-30T17:17:08+02:00",
+    "slide": 18
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.1680094,
+     46.6789577,
+     2011
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230831_083717.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230831_083717.jpg",
+    "small": "media/small/Rosenlaui23/20230831_083717.jpg",
+    "large": "media/large/Rosenlaui23/20230831_083717.jpg",
+    "date": "2023-08-31T08:37:36+02:00",
+    "slide": 19
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.1699178,
+     46.6786863,
+     2145
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230831_085859.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230831_085859.jpg",
+    "small": "media/small/Rosenlaui23/20230831_085859.jpg",
+    "large": "media/large/Rosenlaui23/20230831_085859.jpg",
+    "date": "2023-08-31T08:59:13+02:00",
+    "slide": 20
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.1697103,
+     46.6784567,
+     2133
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230831_090543.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230831_090543.jpg",
+    "small": "media/small/Rosenlaui23/20230831_090543.jpg",
+    "large": "media/large/Rosenlaui23/20230831_090543.jpg",
+    "date": "2023-08-31T09:05:55+02:00",
+    "slide": 21
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.1696634,
+     46.6782388,
+     2140
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230831_090841.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230831_090841.jpg",
+    "small": "media/small/Rosenlaui23/20230831_090841.jpg",
+    "large": "media/large/Rosenlaui23/20230831_090841.jpg",
+    "date": "2023-08-31T09:08:50+02:00",
+    "slide": 22
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.1694613,
+     46.6783193,
+     2073
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230831_091200.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230831_091200.jpg",
+    "small": "media/small/Rosenlaui23/20230831_091200.jpg",
+    "large": "media/large/Rosenlaui23/20230831_091200.jpg",
+    "date": "2023-08-31T09:12:16+02:00",
+    "slide": 23
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.1686974,
+     46.6781682,
+     2095
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230831_091515.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230831_091515.jpg",
+    "small": "media/small/Rosenlaui23/20230831_091515.jpg",
+    "large": "media/large/Rosenlaui23/20230831_091515.jpg",
+    "date": "2023-08-31T09:15:33+02:00",
+    "slide": 24
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.1704193,
+     46.6777434,
+     2146
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230831_093357.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230831_093357.jpg",
+    "small": "media/small/Rosenlaui23/20230831_093357.jpg",
+    "large": "media/large/Rosenlaui23/20230831_093357.jpg",
+    "date": "2023-08-31T09:33:57+02:00",
+    "slide": 25
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.1695886,
+     46.6781611,
+     2064
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230831_101355.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230831_101355.jpg",
+    "small": "media/small/Rosenlaui23/20230831_101355.jpg",
+    "large": "media/large/Rosenlaui23/20230831_101355.jpg",
+    "date": "2023-08-31T10:13:55+02:00",
+    "slide": 26
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.1698431,
+     46.6779753,
+     2116
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230831_101904.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230831_101904.jpg",
+    "small": "media/small/Rosenlaui23/20230831_101904.jpg",
+    "large": "media/large/Rosenlaui23/20230831_101904.jpg",
+    "date": "2023-08-31T10:19:04+02:00",
+    "slide": 27
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.1697239,
+     46.6772639,
+     2071
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230831_102722.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230831_102722.jpg",
+    "small": "media/small/Rosenlaui23/20230831_102722.jpg",
+    "large": "media/large/Rosenlaui23/20230831_102722.jpg",
+    "date": "2023-08-31T10:27:22+02:00",
+    "slide": 28
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.168165,
+     46.6747045,
+     1812
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230831_110440.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230831_110440.jpg",
+    "small": "media/small/Rosenlaui23/20230831_110440.jpg",
+    "large": "media/large/Rosenlaui23/20230831_110440.jpg",
+    "date": "2023-08-31T11:04:40+02:00",
+    "slide": 29
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.1669232,
+     46.6746331,
+     1802
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230831_111428.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230831_111428.jpg",
+    "small": "media/small/Rosenlaui23/20230831_111428.jpg",
+    "large": "media/large/Rosenlaui23/20230831_111428.jpg",
+    "date": "2023-08-31T11:14:28+02:00",
+    "slide": 30
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.1042612,
+     46.6813024,
+     2194
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230831_143549.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230831_143549.jpg",
+    "small": "media/small/Rosenlaui23/20230831_143549.jpg",
+    "large": "media/large/Rosenlaui23/20230831_143549.jpg",
+    "date": "2023-08-31T14:35:55+02:00",
+    "slide": 31
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.0995027,
+     46.6734843,
+     2018
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230831_151402.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230831_151402.jpg",
+    "small": "media/small/Rosenlaui23/20230831_151402.jpg",
+    "large": "media/large/Rosenlaui23/20230831_151402.jpg",
+    "date": "2023-08-31T15:14:03+02:00",
+    "slide": 32
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.0956726,
+     46.667654,
+     2040
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230831_152632.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230831_152632.jpg",
+    "small": "media/small/Rosenlaui23/20230831_152632.jpg",
+    "large": "media/large/Rosenlaui23/20230831_152632.jpg",
+    "date": "2023-08-31T15:26:32+02:00",
+    "slide": 33
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.0958943,
+     46.6647303,
+     2073
+    ]
+   },
+   "properties": {
+    "album": "Rosenlaui23",
+    "page": "Rosenlaui23.html",
+    "file": "20230831_153401.jpg",
+    "thumb": "media/thumbs/Rosenlaui23/20230831_153401.jpg",
+    "small": "media/small/Rosenlaui23/20230831_153401.jpg",
+    "large": "media/large/Rosenlaui23/20230831_153401.jpg",
+    "date": "2023-08-31T15:34:14+02:00",
+    "slide": 34
+   }
+  }
+ ]
+}

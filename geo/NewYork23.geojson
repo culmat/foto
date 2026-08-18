@@ -1,0 +1,2002 @@
+{
+ "type": "FeatureCollection",
+ "album": "NewYork23",
+ "page": "NewYork23.html",
+ "mediaDir": "NewYork23",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.5634321,
+     50.0456856
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230528_132628.jpg",
+    "thumb": "media/thumbs/NewYork23/20230528_132628.jpg",
+    "small": "media/small/NewYork23/20230528_132628.jpg",
+    "large": "media/large/NewYork23/20230528_132628.jpg",
+    "date": "2023-05-28T13:26:28+02:00",
+    "slide": 0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.0770736,
+     43.0832825,
+     255
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230528_212827.jpg",
+    "thumb": "media/thumbs/NewYork23/20230528_212827.jpg",
+    "small": "media/small/NewYork23/20230528_212827.jpg",
+    "large": "media/large/NewYork23/20230528_212827.jpg",
+    "date": "2023-05-28T21:28:40-04:00",
+    "slide": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.0689758,
+     43.0916855,
+     122
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230529_094535.jpg",
+    "thumb": "media/thumbs/NewYork23/20230529_094535.jpg",
+    "small": "media/small/NewYork23/20230529_094535.jpg",
+    "large": "media/large/NewYork23/20230529_094535.jpg",
+    "date": "2023-05-29T09:45:36-04:00",
+    "slide": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.0780041,
+     43.0788755,
+     134
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230529_111503.jpg",
+    "thumb": "media/thumbs/NewYork23/20230529_111503.jpg",
+    "small": "media/small/NewYork23/20230529_111503.jpg",
+    "large": "media/large/NewYork23/20230529_111503.jpg",
+    "date": "2023-05-29T11:15:10-04:00",
+    "slide": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.0780585,
+     43.0789297,
+     107
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230529_111526.jpg",
+    "thumb": "media/thumbs/NewYork23/20230529_111526.jpg",
+    "small": "media/small/NewYork23/20230529_111526.jpg",
+    "large": "media/large/NewYork23/20230529_111526.jpg",
+    "date": "2023-05-29T11:15:28-04:00",
+    "slide": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.0780585,
+     43.0789298,
+     107
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230529_111557.jpg",
+    "thumb": "media/thumbs/NewYork23/20230529_111557.jpg",
+    "small": "media/small/NewYork23/20230529_111557.jpg",
+    "large": "media/large/NewYork23/20230529_111557.jpg",
+    "date": "2023-05-29T11:15:56-04:00",
+    "slide": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.0783599,
+     43.0793268,
+     67
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230529_121420.jpg",
+    "thumb": "media/thumbs/NewYork23/20230529_121420.jpg",
+    "small": "media/small/NewYork23/20230529_121420.jpg",
+    "large": "media/large/NewYork23/20230529_121420.jpg",
+    "date": "2023-05-29T12:14:21-04:00",
+    "slide": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.0682404,
+     43.1221326,
+     36
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230529_154650.jpg",
+    "thumb": "media/thumbs/NewYork23/20230529_154650.jpg",
+    "small": "media/small/NewYork23/20230529_154650.jpg",
+    "large": "media/large/NewYork23/20230529_154650.jpg",
+    "date": "2023-05-29T15:46:50-04:00",
+    "slide": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.0683707,
+     43.1209801,
+     147
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230529_154914.jpg",
+    "thumb": "media/thumbs/NewYork23/20230529_154914.jpg",
+    "small": "media/small/NewYork23/20230529_154914.jpg",
+    "large": "media/large/NewYork23/20230529_154914.jpg",
+    "date": "2023-05-29T15:49:14-04:00",
+    "slide": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.0683707,
+     43.1209801,
+     147
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230529_154919.jpg",
+    "thumb": "media/thumbs/NewYork23/20230529_154919.jpg",
+    "small": "media/small/NewYork23/20230529_154919.jpg",
+    "large": "media/large/NewYork23/20230529_154919.jpg",
+    "date": "2023-05-29T15:49:20-04:00",
+    "slide": 12
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.0683707,
+     43.1209801,
+     147
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230529_154929.jpg",
+    "thumb": "media/thumbs/NewYork23/20230529_154929.jpg",
+    "small": "media/small/NewYork23/20230529_154929.jpg",
+    "large": "media/large/NewYork23/20230529_154929.jpg",
+    "date": "2023-05-29T15:49:36-04:00",
+    "slide": 13
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.0683707,
+     43.1209801,
+     147
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230529_154942.jpg",
+    "thumb": "media/thumbs/NewYork23/20230529_154942.jpg",
+    "small": "media/small/NewYork23/20230529_154942.jpg",
+    "large": "media/large/NewYork23/20230529_154942.jpg",
+    "date": "2023-05-29T15:49:54-04:00",
+    "slide": 14
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.0686739,
+     43.1198519,
+     79
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230529_155005.jpg",
+    "thumb": "media/thumbs/NewYork23/20230529_155005.jpg",
+    "small": "media/small/NewYork23/20230529_155005.jpg",
+    "large": "media/large/NewYork23/20230529_155005.jpg",
+    "date": "2023-05-29T15:50:05-04:00",
+    "slide": 15
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.0686422,
+     43.1179963,
+     127
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230529_155312.jpg",
+    "thumb": "media/thumbs/NewYork23/20230529_155312.jpg",
+    "small": "media/small/NewYork23/20230529_155312.jpg",
+    "large": "media/large/NewYork23/20230529_155312.jpg",
+    "date": "2023-05-29T15:53:12-04:00",
+    "slide": 16
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.0561073,
+     43.135772,
+     116
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230529_162545.jpg",
+    "thumb": "media/thumbs/NewYork23/20230529_162545.jpg",
+    "small": "media/small/NewYork23/20230529_162545.jpg",
+    "large": "media/large/NewYork23/20230529_162545.jpg",
+    "date": "2023-05-29T16:25:45-04:00",
+    "slide": 17
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.0579901,
+     43.1347144,
+     136
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230529_163744.jpg",
+    "thumb": "media/thumbs/NewYork23/20230529_163744.jpg",
+    "small": "media/small/NewYork23/20230529_163744.jpg",
+    "large": "media/large/NewYork23/20230529_163744.jpg",
+    "date": "2023-05-29T16:37:55-04:00",
+    "slide": 18
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.0766553,
+     43.2618926,
+     59
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230529_174126.jpg",
+    "thumb": "media/thumbs/NewYork23/20230529_174126.jpg",
+    "small": "media/small/NewYork23/20230529_174126.jpg",
+    "large": "media/large/NewYork23/20230529_174126.jpg",
+    "date": "2023-05-29T17:41:26-04:00",
+    "slide": 19
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.0501564,
+     43.1616118,
+     113
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230529_195809.jpg",
+    "thumb": "media/thumbs/NewYork23/20230529_195809.jpg",
+    "small": "media/small/NewYork23/20230529_195809.jpg",
+    "large": "media/large/NewYork23/20230529_195809.jpg",
+    "date": "2023-05-29T19:58:09-04:00",
+    "slide": 20
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -78.8856744,
+     42.9114376,
+     150
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230530_115242.jpg",
+    "thumb": "media/thumbs/NewYork23/20230530_115242.jpg",
+    "small": "media/small/NewYork23/20230530_115242.jpg",
+    "large": "media/large/NewYork23/20230530_115242.jpg",
+    "date": "2023-05-30T11:52:42-04:00",
+    "slide": 21
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.2615803,
+     42.8737414,
+     177
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230530_201130.jpg",
+    "thumb": "media/thumbs/NewYork23/20230530_201130.jpg",
+    "small": "media/small/NewYork23/20230530_201130.jpg",
+    "large": "media/large/NewYork23/20230530_201130.jpg",
+    "date": "2023-05-30T20:11:37-04:00",
+    "slide": 22
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.2680281,
+     42.8749596,
+     163
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230530_201707.jpg",
+    "thumb": "media/thumbs/NewYork23/20230530_201707.jpg",
+    "small": "media/small/NewYork23/20230530_201707.jpg",
+    "large": "media/large/NewYork23/20230530_201707.jpg",
+    "date": "2023-05-30T20:17:20-04:00",
+    "slide": 23
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.2761538,
+     42.8750419,
+     200
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230530_202949.jpg",
+    "thumb": "media/thumbs/NewYork23/20230530_202949.jpg",
+    "small": "media/small/NewYork23/20230530_202949.jpg",
+    "large": "media/large/NewYork23/20230530_202949.jpg",
+    "date": "2023-05-30T20:29:49-04:00",
+    "slide": 24
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.2745741,
+     42.873482,
+     194
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230530_221558.jpg",
+    "thumb": "media/thumbs/NewYork23/20230530_221558.jpg",
+    "small": "media/small/NewYork23/20230530_221558.jpg",
+    "large": "media/large/NewYork23/20230530_221558.jpg",
+    "date": "2023-05-30T22:15:58-04:00",
+    "slide": 25
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.8742093,
+     42.3746398,
+     136
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230601_133405.jpg",
+    "thumb": "media/thumbs/NewYork23/20230601_133405.jpg",
+    "small": "media/small/NewYork23/20230601_133405.jpg",
+    "large": "media/large/NewYork23/20230601_133405.jpg",
+    "date": "2023-06-01T13:34:05-04:00",
+    "slide": 27
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.8743092,
+     42.3747212,
+     160
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230601_133702.jpg",
+    "thumb": "media/thumbs/NewYork23/20230601_133702.jpg",
+    "small": "media/small/NewYork23/20230601_133702.jpg",
+    "large": "media/large/NewYork23/20230601_133702.jpg",
+    "date": "2023-06-01T13:37:02-04:00",
+    "slide": 28
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.8753686,
+     42.3743628,
+     206
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230601_135242.jpg",
+    "thumb": "media/thumbs/NewYork23/20230601_135242.jpg",
+    "small": "media/small/NewYork23/20230601_135242.jpg",
+    "large": "media/large/NewYork23/20230601_135242.jpg",
+    "date": "2023-06-01T13:52:42-04:00",
+    "slide": 34
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.877423,
+     42.3738486,
+     342
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230601_135648.jpg",
+    "thumb": "media/thumbs/NewYork23/20230601_135648.jpg",
+    "small": "media/small/NewYork23/20230601_135648.jpg",
+    "large": "media/large/NewYork23/20230601_135648.jpg",
+    "date": "2023-06-01T13:56:48-04:00",
+    "slide": 35
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.8815785,
+     42.3734256,
+     166
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230601_140546.jpg",
+    "thumb": "media/thumbs/NewYork23/20230601_140546.jpg",
+    "small": "media/small/NewYork23/20230601_140546.jpg",
+    "large": "media/large/NewYork23/20230601_140546.jpg",
+    "date": "2023-06-01T14:05:46-04:00",
+    "slide": 37
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.8837871,
+     42.3726204,
+     234
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230601_141928.jpg",
+    "thumb": "media/thumbs/NewYork23/20230601_141928.jpg",
+    "small": "media/small/NewYork23/20230601_141928.jpg",
+    "large": "media/large/NewYork23/20230601_141928.jpg",
+    "date": "2023-06-01T14:19:28-04:00",
+    "slide": 38
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.8823069,
+     42.3734702,
+     219
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230601_143508.jpg",
+    "thumb": "media/thumbs/NewYork23/20230601_143508.jpg",
+    "small": "media/small/NewYork23/20230601_143508.jpg",
+    "large": "media/large/NewYork23/20230601_143508.jpg",
+    "date": "2023-06-01T14:35:08-04:00",
+    "slide": 39
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.8823069,
+     42.3734702,
+     219
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230601_192453.jpg",
+    "thumb": "media/thumbs/NewYork23/20230601_192453.jpg",
+    "small": "media/small/NewYork23/20230601_192453.jpg",
+    "large": "media/large/NewYork23/20230601_192453.jpg",
+    "date": "2023-06-01T14:35:08-04:00",
+    "slide": 40
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.6080339,
+     42.5384062,
+     202
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230601_173959.jpg",
+    "thumb": "media/thumbs/NewYork23/20230601_173959.jpg",
+    "small": "media/small/NewYork23/20230601_173959.jpg",
+    "large": "media/large/NewYork23/20230601_173959.jpg",
+    "date": "2023-06-01T17:39:59-04:00",
+    "slide": 41
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.647553,
+     42.5369884,
+     256
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230601_175721.jpg",
+    "thumb": "media/thumbs/NewYork23/20230601_175721.jpg",
+    "small": "media/small/NewYork23/20230601_175721.jpg",
+    "large": "media/large/NewYork23/20230601_175721.jpg",
+    "date": "2023-06-01T17:57:21-04:00",
+    "slide": 42
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.647553,
+     42.5369884,
+     256
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230601_175727(0).jpg",
+    "thumb": "media/thumbs/NewYork23/20230601_175727(0).jpg",
+    "small": "media/small/NewYork23/20230601_175727(0).jpg",
+    "large": "media/large/NewYork23/20230601_175727(0).jpg",
+    "date": "2023-06-01T17:57:27-04:00",
+    "slide": 43
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.9702501,
+     42.6738648,
+     101
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230602_105445.jpg",
+    "thumb": "media/thumbs/NewYork23/20230602_105445.jpg",
+    "small": "media/small/NewYork23/20230602_105445.jpg",
+    "large": "media/large/NewYork23/20230602_105445.jpg",
+    "date": "2023-06-02T10:54:54-04:00",
+    "slide": 44
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.9702501,
+     42.6738648,
+     101
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230602_105457.jpg",
+    "thumb": "media/thumbs/NewYork23/20230602_105457.jpg",
+    "small": "media/small/NewYork23/20230602_105457.jpg",
+    "large": "media/large/NewYork23/20230602_105457.jpg",
+    "date": "2023-06-02T10:55:04-04:00",
+    "slide": 45
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.9849525,
+     42.663955,
+     127
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230602_115519.jpg",
+    "thumb": "media/thumbs/NewYork23/20230602_115519.jpg",
+    "small": "media/small/NewYork23/20230602_115519.jpg",
+    "large": "media/large/NewYork23/20230602_115519.jpg",
+    "date": "2023-06-02T11:55:31-04:00",
+    "slide": 46
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.9850943,
+     42.663961,
+     148
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230602_122203.jpg",
+    "thumb": "media/thumbs/NewYork23/20230602_122203.jpg",
+    "small": "media/small/NewYork23/20230602_122203.jpg",
+    "large": "media/large/NewYork23/20230602_122203.jpg",
+    "date": "2023-06-02T12:22:04-04:00",
+    "slide": 47
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.9850943,
+     42.6638337,
+     96
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230602_122348.jpg",
+    "thumb": "media/thumbs/NewYork23/20230602_122348.jpg",
+    "small": "media/small/NewYork23/20230602_122348.jpg",
+    "large": "media/large/NewYork23/20230602_122348.jpg",
+    "date": "2023-06-02T12:23:48-04:00",
+    "slide": 48
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.6704937,
+     41.4071388,
+     167
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230603_132241.jpg",
+    "thumb": "media/thumbs/NewYork23/20230603_132241.jpg",
+    "small": "media/small/NewYork23/20230603_132241.jpg",
+    "large": "media/large/NewYork23/20230603_132241.jpg",
+    "date": "2023-06-03T13:22:49-04:00",
+    "slide": 51
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.672138,
+     41.4091149,
+     179
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230603_133034.jpg",
+    "thumb": "media/thumbs/NewYork23/20230603_133034.jpg",
+    "small": "media/small/NewYork23/20230603_133034.jpg",
+    "large": "media/large/NewYork23/20230603_133034.jpg",
+    "date": "2023-06-03T13:30:34-04:00",
+    "slide": 52
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.672138,
+     41.4091149,
+     179
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230603_133058.jpg",
+    "thumb": "media/thumbs/NewYork23/20230603_133058.jpg",
+    "small": "media/small/NewYork23/20230603_133058.jpg",
+    "large": "media/large/NewYork23/20230603_133058.jpg",
+    "date": "2023-06-03T13:30:58-04:00",
+    "slide": 53
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.672138,
+     41.4091149,
+     179
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230603_133123.jpg",
+    "thumb": "media/thumbs/NewYork23/20230603_133123.jpg",
+    "small": "media/small/NewYork23/20230603_133123.jpg",
+    "large": "media/large/NewYork23/20230603_133123.jpg",
+    "date": "2023-06-03T13:31:23-04:00",
+    "slide": 54
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.6704195,
+     41.4074044,
+     205
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230603_133333.jpg",
+    "thumb": "media/thumbs/NewYork23/20230603_133333.jpg",
+    "small": "media/small/NewYork23/20230603_133333.jpg",
+    "large": "media/large/NewYork23/20230603_133333.jpg",
+    "date": "2023-06-03T13:33:33-04:00",
+    "slide": 55
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.6707071,
+     41.4072591,
+     217
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230603_135019.jpg",
+    "thumb": "media/thumbs/NewYork23/20230603_135019.jpg",
+    "small": "media/small/NewYork23/20230603_135019.jpg",
+    "large": "media/large/NewYork23/20230603_135019.jpg",
+    "date": "2023-06-03T13:50:20-04:00",
+    "slide": 56
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.3758978,
+     40.7435896,
+     204
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230604_075707.jpg",
+    "thumb": "media/thumbs/NewYork23/20230604_075707.jpg",
+    "small": "media/small/NewYork23/20230604_075707.jpg",
+    "large": "media/large/NewYork23/20230604_075707.jpg",
+    "date": "2023-06-04T07:57:07-04:00",
+    "slide": 57
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0350627,
+     40.7081906,
+     2
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230604_102447.jpg",
+    "thumb": "media/thumbs/NewYork23/20230604_102447.jpg",
+    "small": "media/small/NewYork23/20230604_102447.jpg",
+    "large": "media/large/NewYork23/20230604_102447.jpg",
+    "date": "2023-06-04T10:24:47-04:00",
+    "slide": 58
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.034372,
+     40.7084831,
+     -33
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230604_102641.jpg",
+    "thumb": "media/thumbs/NewYork23/20230604_102641.jpg",
+    "small": "media/small/NewYork23/20230604_102641.jpg",
+    "large": "media/large/NewYork23/20230604_102641.jpg",
+    "date": "2023-06-04T10:26:41-04:00",
+    "slide": 59
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0334616,
+     40.7076524,
+     -22
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230604_104351.jpg",
+    "thumb": "media/thumbs/NewYork23/20230604_104351.jpg",
+    "small": "media/small/NewYork23/20230604_104351.jpg",
+    "large": "media/large/NewYork23/20230604_104351.jpg",
+    "date": "2023-06-04T10:44:11-04:00",
+    "slide": 60
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0450285,
+     40.6863171,
+     -24
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230604_130800.jpg",
+    "thumb": "media/thumbs/NewYork23/20230604_130800.jpg",
+    "small": "media/small/NewYork23/20230604_130800.jpg",
+    "large": "media/large/NewYork23/20230604_130800.jpg",
+    "date": "2023-06-04T13:08:00-04:00",
+    "slide": 61
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0438496,
+     40.6887523,
+     -21
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230604_132336.jpg",
+    "thumb": "media/thumbs/NewYork23/20230604_132336.jpg",
+    "small": "media/small/NewYork23/20230604_132336.jpg",
+    "large": "media/large/NewYork23/20230604_132336.jpg",
+    "date": "2023-06-04T13:23:36-04:00",
+    "slide": 62
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0410183,
+     40.6891204,
+     -21
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230604_140142.jpg",
+    "thumb": "media/thumbs/NewYork23/20230604_140142.jpg",
+    "small": "media/small/NewYork23/20230604_140142.jpg",
+    "large": "media/large/NewYork23/20230604_140142.jpg",
+    "date": "2023-06-04T14:01:42-04:00",
+    "slide": 63
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9983041,
+     40.2225992,
+     -26
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230605_121603.jpg",
+    "thumb": "media/thumbs/NewYork23/20230605_121603.jpg",
+    "small": "media/small/NewYork23/20230605_121603.jpg",
+    "large": "media/large/NewYork23/20230605_121603.jpg",
+    "date": "2023-06-05T12:16:03-04:00",
+    "slide": 64
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9983041,
+     40.2225992,
+     -26
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230605_121616.jpg",
+    "thumb": "media/thumbs/NewYork23/20230605_121616.jpg",
+    "small": "media/small/NewYork23/20230605_121616.jpg",
+    "large": "media/large/NewYork23/20230605_121616.jpg",
+    "date": "2023-06-05T12:16:17-04:00",
+    "slide": 65
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9975281,
+     40.223137,
+     -32
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230605_121957.jpg",
+    "thumb": "media/thumbs/NewYork23/20230605_121957.jpg",
+    "small": "media/small/NewYork23/20230605_121957.jpg",
+    "large": "media/large/NewYork23/20230605_121957.jpg",
+    "date": "2023-06-05T12:20:18-04:00",
+    "slide": 66
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9975281,
+     40.223137,
+     -32
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230605_122022.jpg",
+    "thumb": "media/thumbs/NewYork23/20230605_122022.jpg",
+    "small": "media/small/NewYork23/20230605_122022.jpg",
+    "large": "media/large/NewYork23/20230605_122022.jpg",
+    "date": "2023-06-05T12:20:44-04:00",
+    "slide": 67
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9972924,
+     40.2238169,
+     -40
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230605_122315.jpg",
+    "thumb": "media/thumbs/NewYork23/20230605_122315.jpg",
+    "small": "media/small/NewYork23/20230605_122315.jpg",
+    "large": "media/large/NewYork23/20230605_122315.jpg",
+    "date": "2023-06-05T12:23:15-04:00",
+    "slide": 68
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9979875,
+     40.2238489,
+     -15
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230605_122411.jpg",
+    "thumb": "media/thumbs/NewYork23/20230605_122411.jpg",
+    "small": "media/small/NewYork23/20230605_122411.jpg",
+    "large": "media/large/NewYork23/20230605_122411.jpg",
+    "date": "2023-06-05T12:24:11-04:00",
+    "slide": 69
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9979875,
+     40.2238489,
+     -15
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230605_122429.jpg",
+    "thumb": "media/thumbs/NewYork23/20230605_122429.jpg",
+    "small": "media/small/NewYork23/20230605_122429.jpg",
+    "large": "media/large/NewYork23/20230605_122429.jpg",
+    "date": "2023-06-05T12:24:48-04:00",
+    "slide": 70
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9983925,
+     40.2226822,
+     -48
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230605_140733.jpg",
+    "thumb": "media/thumbs/NewYork23/20230605_140733.jpg",
+    "small": "media/small/NewYork23/20230605_140733.jpg",
+    "large": "media/large/NewYork23/20230605_140733.jpg",
+    "date": "2023-06-05T14:07:33-04:00",
+    "slide": 71
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9983925,
+     40.2226822,
+     -48
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230605_140739.jpg",
+    "thumb": "media/thumbs/NewYork23/20230605_140739.jpg",
+    "small": "media/small/NewYork23/20230605_140739.jpg",
+    "large": "media/large/NewYork23/20230605_140739.jpg",
+    "date": "2023-06-05T14:07:39-04:00",
+    "slide": 72
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9924848,
+     40.7025717,
+     -11
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230606_120651.jpg",
+    "thumb": "media/thumbs/NewYork23/20230606_120651.jpg",
+    "small": "media/small/NewYork23/20230606_120651.jpg",
+    "large": "media/large/NewYork23/20230606_120651.jpg",
+    "date": "2023-06-06T12:06:51-04:00",
+    "slide": 75
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9938583,
+     40.7041924,
+     -4
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230606_121301.jpg",
+    "thumb": "media/thumbs/NewYork23/20230606_121301.jpg",
+    "small": "media/small/NewYork23/20230606_121301.jpg",
+    "large": "media/large/NewYork23/20230606_121301.jpg",
+    "date": "2023-06-06T12:13:01-04:00",
+    "slide": 76
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9966398,
+     40.7058602,
+     15
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230606_121839.jpg",
+    "thumb": "media/thumbs/NewYork23/20230606_121839.jpg",
+    "small": "media/small/NewYork23/20230606_121839.jpg",
+    "large": "media/large/NewYork23/20230606_121839.jpg",
+    "date": "2023-06-06T12:18:39-04:00",
+    "slide": 77
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0002216,
+     40.7088123,
+     -12
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230606_122733.jpg",
+    "thumb": "media/thumbs/NewYork23/20230606_122733.jpg",
+    "small": "media/small/NewYork23/20230606_122733.jpg",
+    "large": "media/large/NewYork23/20230606_122733.jpg",
+    "date": "2023-06-06T12:27:34-04:00",
+    "slide": 79
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9979277,
+     40.7165169,
+     -5
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230606_134301.jpg",
+    "thumb": "media/thumbs/NewYork23/20230606_134301.jpg",
+    "small": "media/small/NewYork23/20230606_134301.jpg",
+    "large": "media/large/NewYork23/20230606_134301.jpg",
+    "date": "2023-06-06T13:43:01-04:00",
+    "slide": 80
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0066204,
+     40.7135306,
+     -27
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230606_140627.jpg",
+    "thumb": "media/thumbs/NewYork23/20230606_140627.jpg",
+    "small": "media/small/NewYork23/20230606_140627.jpg",
+    "large": "media/large/NewYork23/20230606_140627.jpg",
+    "date": "2023-06-06T14:06:27-04:00",
+    "slide": 81
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0110803,
+     40.712034,
+     -1
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230606_141653.jpg",
+    "thumb": "media/thumbs/NewYork23/20230606_141653.jpg",
+    "small": "media/small/NewYork23/20230606_141653.jpg",
+    "large": "media/large/NewYork23/20230606_141653.jpg",
+    "date": "2023-06-06T14:16:53-04:00",
+    "slide": 82
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0103709,
+     40.7118553,
+     -19
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230606_141953.jpg",
+    "thumb": "media/thumbs/NewYork23/20230606_141953.jpg",
+    "small": "media/small/NewYork23/20230606_141953.jpg",
+    "large": "media/large/NewYork23/20230606_141953.jpg",
+    "date": "2023-06-06T14:19:53-04:00",
+    "slide": 83
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0113172,
+     40.7121047,
+     -1
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230606_144713.jpg",
+    "thumb": "media/thumbs/NewYork23/20230606_144713.jpg",
+    "small": "media/small/NewYork23/20230606_144713.jpg",
+    "large": "media/large/NewYork23/20230606_144713.jpg",
+    "date": "2023-06-06T14:47:14-04:00",
+    "slide": 84
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0125942,
+     40.7121436,
+     -10
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230606_145027.jpg",
+    "thumb": "media/thumbs/NewYork23/20230606_145027.jpg",
+    "small": "media/small/NewYork23/20230606_145027.jpg",
+    "large": "media/large/NewYork23/20230606_145027.jpg",
+    "date": "2023-06-06T14:50:35-04:00",
+    "slide": 85
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.013785,
+     40.7121017,
+     -24
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230606_155541.jpg",
+    "thumb": "media/thumbs/NewYork23/20230606_155541.jpg",
+    "small": "media/small/NewYork23/20230606_155541.jpg",
+    "large": "media/large/NewYork23/20230606_155541.jpg",
+    "date": "2023-06-06T15:55:42-04:00",
+    "slide": 86
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9710366,
+     40.7759267,
+     -24
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230607_115139.jpg",
+    "thumb": "media/thumbs/NewYork23/20230607_115139.jpg",
+    "small": "media/small/NewYork23/20230607_115139.jpg",
+    "large": "media/large/NewYork23/20230607_115139.jpg",
+    "date": "2023-06-07T11:51:49-04:00",
+    "slide": 91
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9722356,
+     40.7754382,
+     -22
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230607_115816.jpg",
+    "thumb": "media/thumbs/NewYork23/20230607_115816.jpg",
+    "small": "media/small/NewYork23/20230607_115816.jpg",
+    "large": "media/large/NewYork23/20230607_115816.jpg",
+    "date": "2023-06-07T11:58:25-04:00",
+    "slide": 92
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9781899,
+     40.7605333,
+     -10
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230607_131820.jpg",
+    "thumb": "media/thumbs/NewYork23/20230607_131820.jpg",
+    "small": "media/small/NewYork23/20230607_131820.jpg",
+    "large": "media/large/NewYork23/20230607_131820.jpg",
+    "date": "2023-06-07T13:18:27-04:00",
+    "slide": 93
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9758212,
+     40.7618749,
+     3
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230607_142022.jpg",
+    "thumb": "media/thumbs/NewYork23/20230607_142022.jpg",
+    "small": "media/small/NewYork23/20230607_142022.jpg",
+    "large": "media/large/NewYork23/20230607_142022.jpg",
+    "date": "2023-06-07T14:20:22-04:00",
+    "slide": 94
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.977634,
+     40.7614785,
+     -9
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230607_143007.jpg",
+    "thumb": "media/thumbs/NewYork23/20230607_143007.jpg",
+    "small": "media/small/NewYork23/20230607_143007.jpg",
+    "large": "media/large/NewYork23/20230607_143007.jpg",
+    "date": "2023-06-07T14:30:07-04:00",
+    "slide": 95
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.976982,
+     40.7607512,
+     -3
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230607_143310.jpg",
+    "thumb": "media/thumbs/NewYork23/20230607_143310.jpg",
+    "small": "media/small/NewYork23/20230607_143310.jpg",
+    "large": "media/large/NewYork23/20230607_143310.jpg",
+    "date": "2023-06-07T14:33:10-04:00",
+    "slide": 96
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9763061,
+     40.7594692,
+     -12
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230607_143700.jpg",
+    "thumb": "media/thumbs/NewYork23/20230607_143700.jpg",
+    "small": "media/small/NewYork23/20230607_143700.jpg",
+    "large": "media/large/NewYork23/20230607_143700.jpg",
+    "date": "2023-06-07T14:37:01-04:00",
+    "slide": 97
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9676611,
+     40.7513213,
+     -19
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230607_150805.jpg",
+    "thumb": "media/thumbs/NewYork23/20230607_150805.jpg",
+    "small": "media/small/NewYork23/20230607_150805.jpg",
+    "large": "media/large/NewYork23/20230607_150805.jpg",
+    "date": "2023-06-07T15:08:05-04:00",
+    "slide": 98
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9663192,
+     40.7505008,
+     -33
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230607_160023.jpg",
+    "thumb": "media/thumbs/NewYork23/20230607_160023.jpg",
+    "small": "media/small/NewYork23/20230607_160023.jpg",
+    "large": "media/large/NewYork23/20230607_160023.jpg",
+    "date": "2023-06-07T16:00:23-04:00",
+    "slide": 101
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9668814,
+     40.7515805,
+     -23
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230607_160710.jpg",
+    "thumb": "media/thumbs/NewYork23/20230607_160710.jpg",
+    "small": "media/small/NewYork23/20230607_160710.jpg",
+    "large": "media/large/NewYork23/20230607_160710.jpg",
+    "date": "2023-06-07T16:07:10-04:00",
+    "slide": 102
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9848898,
+     40.757787,
+     -3
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230607_205338.jpg",
+    "thumb": "media/thumbs/NewYork23/20230607_205338.jpg",
+    "small": "media/small/NewYork23/20230607_205338.jpg",
+    "large": "media/large/NewYork23/20230607_205338.jpg",
+    "date": "2023-06-07T20:53:38-04:00",
+    "slide": 103
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9840341,
+     40.7574868,
+     25
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230607_205620.jpg",
+    "thumb": "media/thumbs/NewYork23/20230607_205620.jpg",
+    "small": "media/small/NewYork23/20230607_205620.jpg",
+    "large": "media/large/NewYork23/20230607_205620.jpg",
+    "date": "2023-06-07T20:56:32-04:00",
+    "slide": 104
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9846797,
+     40.7580708,
+     25
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230607_210029.jpg",
+    "thumb": "media/thumbs/NewYork23/20230607_210029.jpg",
+    "small": "media/small/NewYork23/20230607_210029.jpg",
+    "large": "media/large/NewYork23/20230607_210029.jpg",
+    "date": "2023-06-07T21:00:29-04:00",
+    "slide": 105
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9870995,
+     40.7571521,
+     -28
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230607_214304.jpg",
+    "thumb": "media/thumbs/NewYork23/20230607_214304.jpg",
+    "small": "media/small/NewYork23/20230607_214304.jpg",
+    "large": "media/large/NewYork23/20230607_214304.jpg",
+    "date": "2023-06-07T21:43:04-04:00",
+    "slide": 106
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0003947,
+     40.7525449,
+     -110
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230608_133309.jpg",
+    "thumb": "media/thumbs/NewYork23/20230608_133309.jpg",
+    "small": "media/small/NewYork23/20230608_133309.jpg",
+    "large": "media/large/NewYork23/20230608_133309.jpg",
+    "date": "2023-06-08T13:33:18-04:00",
+    "slide": 108
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0026651,
+     40.7531002,
+     37
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230608_133707.jpg",
+    "thumb": "media/thumbs/NewYork23/20230608_133707.jpg",
+    "small": "media/small/NewYork23/20230608_133707.jpg",
+    "large": "media/large/NewYork23/20230608_133707.jpg",
+    "date": "2023-06-08T13:37:13-04:00",
+    "slide": 109
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0052504,
+     40.7533285,
+     12
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230608_134119.jpg",
+    "thumb": "media/thumbs/NewYork23/20230608_134119.jpg",
+    "small": "media/small/NewYork23/20230608_134119.jpg",
+    "large": "media/large/NewYork23/20230608_134119.jpg",
+    "date": "2023-06-08T13:41:19-04:00",
+    "slide": 110
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0033387,
+     40.7532396,
+     46
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230608_134800.jpg",
+    "thumb": "media/thumbs/NewYork23/20230608_134800.jpg",
+    "small": "media/small/NewYork23/20230608_134800.jpg",
+    "large": "media/large/NewYork23/20230608_134800.jpg",
+    "date": "2023-06-08T13:48:05-04:00",
+    "slide": 111
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0029452,
+     40.7528019,
+     58
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230608_134915.jpg",
+    "thumb": "media/thumbs/NewYork23/20230608_134915.jpg",
+    "small": "media/small/NewYork23/20230608_134915.jpg",
+    "large": "media/large/NewYork23/20230608_134915.jpg",
+    "date": "2023-06-08T13:49:15-04:00",
+    "slide": 112
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0065622,
+     40.7453052,
+     -5
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230608_141351.jpg",
+    "thumb": "media/thumbs/NewYork23/20230608_141351.jpg",
+    "small": "media/small/NewYork23/20230608_141351.jpg",
+    "large": "media/large/NewYork23/20230608_141351.jpg",
+    "date": "2023-06-08T14:13:51-04:00",
+    "slide": 113
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0066564,
+     40.7439651,
+     13
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230608_141647.jpg",
+    "thumb": "media/thumbs/NewYork23/20230608_141647.jpg",
+    "small": "media/small/NewYork23/20230608_141647.jpg",
+    "large": "media/large/NewYork23/20230608_141647.jpg",
+    "date": "2023-06-08T14:16:47-04:00",
+    "slide": 114
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.991562,
+     40.7355981,
+     -22
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230608_163117.jpg",
+    "thumb": "media/thumbs/NewYork23/20230608_163117.jpg",
+    "small": "media/small/NewYork23/20230608_163117.jpg",
+    "large": "media/large/NewYork23/20230608_163117.jpg",
+    "date": "2023-06-08T16:31:17-04:00",
+    "slide": 115
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.5584007,
+     50.0407736,
+     173
+    ]
+   },
+   "properties": {
+    "album": "NewYork23",
+    "page": "NewYork23.html",
+    "file": "20230610_120605.jpg",
+    "thumb": "media/thumbs/NewYork23/20230610_120605.jpg",
+    "small": "media/small/NewYork23/20230610_120605.jpg",
+    "large": "media/large/NewYork23/20230610_120605.jpg",
+    "date": "2023-06-10T12:06:05+02:00",
+    "slide": 116
+   }
+  }
+ ]
+}

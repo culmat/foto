@@ -1,0 +1,323 @@
+{
+ "type": "FeatureCollection",
+ "album": "Décembre22",
+ "page": "Decembre22.html",
+ "mediaDir": "Décembre22",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5930221,
+     47.5271993,
+     418
+    ]
+   },
+   "properties": {
+    "album": "Décembre22",
+    "page": "Decembre22.html",
+    "file": "20221218_101203.jpg",
+    "thumb": "media/thumbs/Décembre22/20221218_101203.jpg",
+    "small": "media/small/Décembre22/20221218_101203.jpg",
+    "large": "media/large/Décembre22/20221218_101203.jpg",
+    "date": "2022-12-18T10:12:03+01:00",
+    "slide": 0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5919596,
+     47.5235978,
+     400
+    ]
+   },
+   "properties": {
+    "album": "Décembre22",
+    "page": "Decembre22.html",
+    "file": "20221218_101930.jpg",
+    "thumb": "media/thumbs/Décembre22/20221218_101930.jpg",
+    "small": "media/small/Décembre22/20221218_101930.jpg",
+    "large": "media/large/Décembre22/20221218_101930.jpg",
+    "date": "2022-12-18T10:19:30+01:00",
+    "slide": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5920127,
+     47.5232822,
+     399
+    ]
+   },
+   "properties": {
+    "album": "Décembre22",
+    "page": "Decembre22.html",
+    "file": "20221218_102037.jpg",
+    "thumb": "media/thumbs/Décembre22/20221218_102037.jpg",
+    "small": "media/small/Décembre22/20221218_102037.jpg",
+    "large": "media/large/Décembre22/20221218_102037.jpg",
+    "date": "2022-12-18T10:20:41+01:00",
+    "slide": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5918762,
+     47.5226735,
+     396
+    ]
+   },
+   "properties": {
+    "album": "Décembre22",
+    "page": "Decembre22.html",
+    "file": "20221218_102336.jpg",
+    "thumb": "media/thumbs/Décembre22/20221218_102336.jpg",
+    "small": "media/small/Décembre22/20221218_102336.jpg",
+    "large": "media/large/Décembre22/20221218_102336.jpg",
+    "date": "2022-12-18T10:23:39+01:00",
+    "slide": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5918762,
+     47.5226735,
+     396
+    ]
+   },
+   "properties": {
+    "album": "Décembre22",
+    "page": "Decembre22.html",
+    "file": "20221218_102354.jpg",
+    "thumb": "media/thumbs/Décembre22/20221218_102354.jpg",
+    "small": "media/small/Décembre22/20221218_102354.jpg",
+    "large": "media/large/Décembre22/20221218_102354.jpg",
+    "date": "2022-12-18T10:24:13+01:00",
+    "slide": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5918321,
+     47.5227154,
+     402
+    ]
+   },
+   "properties": {
+    "album": "Décembre22",
+    "page": "Decembre22.html",
+    "file": "20221218_102501.jpg",
+    "thumb": "media/thumbs/Décembre22/20221218_102501.jpg",
+    "small": "media/small/Décembre22/20221218_102501.jpg",
+    "large": "media/large/Décembre22/20221218_102501.jpg",
+    "date": "2022-12-18T10:25:11+01:00",
+    "slide": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5919631,
+     47.5228047,
+     387
+    ]
+   },
+   "properties": {
+    "album": "Décembre22",
+    "page": "Decembre22.html",
+    "file": "20221218_102624.jpg",
+    "thumb": "media/thumbs/Décembre22/20221218_102624.jpg",
+    "small": "media/small/Décembre22/20221218_102624.jpg",
+    "large": "media/large/Décembre22/20221218_102624.jpg",
+    "date": "2022-12-18T10:26:24+01:00",
+    "slide": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5920109,
+     47.5226701,
+     403
+    ]
+   },
+   "properties": {
+    "album": "Décembre22",
+    "page": "Decembre22.html",
+    "file": "20221218_102727.jpg",
+    "thumb": "media/thumbs/Décembre22/20221218_102727.jpg",
+    "small": "media/small/Décembre22/20221218_102727.jpg",
+    "large": "media/large/Décembre22/20221218_102727.jpg",
+    "date": "2022-12-18T10:27:28+01:00",
+    "slide": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5920109,
+     47.5226701,
+     403
+    ]
+   },
+   "properties": {
+    "album": "Décembre22",
+    "page": "Decembre22.html",
+    "file": "20221218_102739.jpg",
+    "thumb": "media/thumbs/Décembre22/20221218_102739.jpg",
+    "small": "media/small/Décembre22/20221218_102739.jpg",
+    "large": "media/large/Décembre22/20221218_102739.jpg",
+    "date": "2022-12-18T10:27:40+01:00",
+    "slide": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5920109,
+     47.5226701,
+     403
+    ]
+   },
+   "properties": {
+    "album": "Décembre22",
+    "page": "Decembre22.html",
+    "file": "20221218_102814.jpg",
+    "thumb": "media/thumbs/Décembre22/20221218_102814.jpg",
+    "small": "media/small/Décembre22/20221218_102814.jpg",
+    "large": "media/large/Décembre22/20221218_102814.jpg",
+    "date": "2022-12-18T10:28:14+01:00",
+    "slide": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5919856,
+     47.5222946,
+     404
+    ]
+   },
+   "properties": {
+    "album": "Décembre22",
+    "page": "Decembre22.html",
+    "file": "20221218_102936.jpg",
+    "thumb": "media/thumbs/Décembre22/20221218_102936.jpg",
+    "small": "media/small/Décembre22/20221218_102936.jpg",
+    "large": "media/large/Décembre22/20221218_102936.jpg",
+    "date": "2022-12-18T10:29:51+01:00",
+    "slide": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5924474,
+     47.5241054,
+     409
+    ]
+   },
+   "properties": {
+    "album": "Décembre22",
+    "page": "Decembre22.html",
+    "file": "20221218_104951.jpg",
+    "thumb": "media/thumbs/Décembre22/20221218_104951.jpg",
+    "small": "media/small/Décembre22/20221218_104951.jpg",
+    "large": "media/large/Décembre22/20221218_104951.jpg",
+    "date": "2022-12-18T10:49:52+01:00",
+    "slide": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5924724,
+     47.5242326,
+     404
+    ]
+   },
+   "properties": {
+    "album": "Décembre22",
+    "page": "Decembre22.html",
+    "file": "20221218_105138.jpg",
+    "thumb": "media/thumbs/Décembre22/20221218_105138.jpg",
+    "small": "media/small/Décembre22/20221218_105138.jpg",
+    "large": "media/large/Décembre22/20221218_105138.jpg",
+    "date": "2022-12-18T10:51:39+01:00",
+    "slide": 12
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5925892,
+     47.5243386,
+     398
+    ]
+   },
+   "properties": {
+    "album": "Décembre22",
+    "page": "Decembre22.html",
+    "file": "20221218_105253.jpg",
+    "thumb": "media/thumbs/Décembre22/20221218_105253.jpg",
+    "small": "media/small/Décembre22/20221218_105253.jpg",
+    "large": "media/large/Décembre22/20221218_105253.jpg",
+    "date": "2022-12-18T10:53:05+01:00",
+    "slide": 13
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5918702,
+     47.525113,
+     444
+    ]
+   },
+   "properties": {
+    "album": "Décembre22",
+    "page": "Decembre22.html",
+    "file": "20221218_105653.jpg",
+    "thumb": "media/thumbs/Décembre22/20221218_105653.jpg",
+    "small": "media/small/Décembre22/20221218_105653.jpg",
+    "large": "media/large/Décembre22/20221218_105653.jpg",
+    "date": "2022-12-18T10:56:53+01:00",
+    "slide": 14
+   }
+  }
+ ]
+}

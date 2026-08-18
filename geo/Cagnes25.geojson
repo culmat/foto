@@ -1,0 +1,407 @@
+{
+ "type": "FeatureCollection",
+ "album": "Cagnes25",
+ "page": "Cagnes25.html",
+ "mediaDir": "Cagnes25",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.5212891,
+     43.2745665,
+     190
+    ]
+   },
+   "properties": {
+    "album": "Cagnes25",
+    "page": "Cagnes25.html",
+    "file": "20250719_123704.jpg",
+    "thumb": "media/thumbs/Cagnes25/20250719_123704.jpg",
+    "small": "media/small/Cagnes25/20250719_123704.jpg",
+    "large": "media/large/Cagnes25/20250719_123704.jpg",
+    "date": "2025-07-19T12:37:04+02:00",
+    "slide": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.5210284,
+     43.2750104,
+     187
+    ]
+   },
+   "properties": {
+    "album": "Cagnes25",
+    "page": "Cagnes25.html",
+    "file": "20250719_125117.jpg",
+    "thumb": "media/thumbs/Cagnes25/20250719_125117.jpg",
+    "small": "media/small/Cagnes25/20250719_125117.jpg",
+    "large": "media/large/Cagnes25/20250719_125117.jpg",
+    "date": "2025-07-19T12:51:34+02:00",
+    "slide": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.5816217,
+     43.2754891,
+     44
+    ]
+   },
+   "properties": {
+    "album": "Cagnes25",
+    "page": "Cagnes25.html",
+    "file": "20250719_152801.jpg",
+    "thumb": "media/thumbs/Cagnes25/20250719_152801.jpg",
+    "small": "media/small/Cagnes25/20250719_152801.jpg",
+    "large": "media/large/Cagnes25/20250719_152801.jpg",
+    "date": "2025-07-19T15:28:01+02:00",
+    "slide": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.5836964,
+     43.2772269,
+     51
+    ]
+   },
+   "properties": {
+    "album": "Cagnes25",
+    "page": "Cagnes25.html",
+    "file": "20250719_153515.jpg",
+    "thumb": "media/thumbs/Cagnes25/20250719_153515.jpg",
+    "small": "media/small/Cagnes25/20250719_153515.jpg",
+    "large": "media/large/Cagnes25/20250719_153515.jpg",
+    "date": "2025-07-19T15:35:15+02:00",
+    "slide": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.1297693,
+     43.0382237,
+     133
+    ]
+   },
+   "properties": {
+    "album": "Cagnes25",
+    "page": "Cagnes25.html",
+    "file": "20250719_191503.jpg",
+    "thumb": "media/thumbs/Cagnes25/20250719_191503.jpg",
+    "small": "media/small/Cagnes25/20250719_191503.jpg",
+    "large": "media/large/Cagnes25/20250719_191503.jpg",
+    "date": "2025-07-19T19:15:24+02:00",
+    "slide": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.7909916,
+     43.6433876,
+     211
+    ]
+   },
+   "properties": {
+    "album": "Cagnes25",
+    "page": "Cagnes25.html",
+    "file": "20250720_132325.jpg",
+    "thumb": "media/thumbs/Cagnes25/20250720_132325.jpg",
+    "small": "media/small/Cagnes25/20250720_132325.jpg",
+    "large": "media/large/Cagnes25/20250720_132325.jpg",
+    "date": "2025-07-20T13:23:26+02:00",
+    "slide": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.9527357,
+     43.5059809,
+     74
+    ]
+   },
+   "properties": {
+    "album": "Cagnes25",
+    "page": "Cagnes25.html",
+    "file": "20250720_195647.jpg",
+    "thumb": "media/thumbs/Cagnes25/20250720_195647.jpg",
+    "small": "media/small/Cagnes25/20250720_195647.jpg",
+    "large": "media/large/Cagnes25/20250720_195647.jpg",
+    "date": "2025-07-20T19:56:48+02:00",
+    "slide": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.9183581,
+     43.4485104,
+     55
+    ]
+   },
+   "properties": {
+    "album": "Cagnes25",
+    "page": "Cagnes25.html",
+    "file": "20250720_203625.jpg",
+    "thumb": "media/thumbs/Cagnes25/20250720_203625.jpg",
+    "small": "media/small/Cagnes25/20250720_203625.jpg",
+    "large": "media/large/Cagnes25/20250720_203625.jpg",
+    "date": "2025-07-20T20:36:26+02:00",
+    "slide": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.9184666,
+     43.4481584,
+     74
+    ]
+   },
+   "properties": {
+    "album": "Cagnes25",
+    "page": "Cagnes25.html",
+    "file": "20250720_203824.jpg",
+    "thumb": "media/thumbs/Cagnes25/20250720_203824.jpg",
+    "small": "media/small/Cagnes25/20250720_203824.jpg",
+    "large": "media/large/Cagnes25/20250720_203824.jpg",
+    "date": "2025-07-20T20:38:38+02:00",
+    "slide": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.9185281,
+     43.448257,
+     83
+    ]
+   },
+   "properties": {
+    "album": "Cagnes25",
+    "page": "Cagnes25.html",
+    "file": "20250720_203912.jpg",
+    "thumb": "media/thumbs/Cagnes25/20250720_203912.jpg",
+    "small": "media/small/Cagnes25/20250720_203912.jpg",
+    "large": "media/large/Cagnes25/20250720_203912.jpg",
+    "date": "2025-07-20T20:39:30+02:00",
+    "slide": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.6246713,
+     43.85179,
+     63
+    ]
+   },
+   "properties": {
+    "album": "Cagnes25",
+    "page": "Cagnes25.html",
+    "file": "20250721_114920.jpg",
+    "thumb": "media/thumbs/Cagnes25/20250721_114920.jpg",
+    "small": "media/small/Cagnes25/20250721_114920.jpg",
+    "large": "media/large/Cagnes25/20250721_114920.jpg",
+    "date": "2025-07-21T11:49:29+02:00",
+    "slide": 12
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.6252163,
+     43.8512495,
+     153
+    ]
+   },
+   "properties": {
+    "album": "Cagnes25",
+    "page": "Cagnes25.html",
+    "file": "20250721_122947.jpg",
+    "thumb": "media/thumbs/Cagnes25/20250721_122947.jpg",
+    "small": "media/small/Cagnes25/20250721_122947.jpg",
+    "large": "media/large/Cagnes25/20250721_122947.jpg",
+    "date": "2025-07-21T12:30:01+02:00",
+    "slide": 13
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.6238194,
+     43.8513074,
+     128
+    ]
+   },
+   "properties": {
+    "album": "Cagnes25",
+    "page": "Cagnes25.html",
+    "file": "20250721_130308.jpg",
+    "thumb": "media/thumbs/Cagnes25/20250721_130308.jpg",
+    "small": "media/small/Cagnes25/20250721_130308.jpg",
+    "large": "media/large/Cagnes25/20250721_130308.jpg",
+    "date": "2025-07-21T13:03:10+02:00",
+    "slide": 15
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5551865,
+     43.7841583,
+     106
+    ]
+   },
+   "properties": {
+    "album": "Cagnes25",
+    "page": "Cagnes25.html",
+    "file": "20250721_151952.jpg",
+    "thumb": "media/thumbs/Cagnes25/20250721_151952.jpg",
+    "small": "media/small/Cagnes25/20250721_151952.jpg",
+    "large": "media/large/Cagnes25/20250721_151952.jpg",
+    "date": "2025-07-21T15:20:03+02:00",
+    "slide": 16
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5555911,
+     43.7835459,
+     130
+    ]
+   },
+   "properties": {
+    "album": "Cagnes25",
+    "page": "Cagnes25.html",
+    "file": "20250721_161649.jpg",
+    "thumb": "media/thumbs/Cagnes25/20250721_161649.jpg",
+    "small": "media/small/Cagnes25/20250721_161649.jpg",
+    "large": "media/large/Cagnes25/20250721_161649.jpg",
+    "date": "2025-07-21T16:16:48+02:00",
+    "slide": 17
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.6685281,
+     43.7773045,
+     55
+    ]
+   },
+   "properties": {
+    "album": "Cagnes25",
+    "page": "Cagnes25.html",
+    "file": "20250721_201435.jpg",
+    "thumb": "media/thumbs/Cagnes25/20250721_201435.jpg",
+    "small": "media/small/Cagnes25/20250721_201435.jpg",
+    "large": "media/large/Cagnes25/20250721_201435.jpg",
+    "date": "2025-07-21T20:14:35+02:00",
+    "slide": 18
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.6685266,
+     43.777294,
+     54
+    ]
+   },
+   "properties": {
+    "album": "Cagnes25",
+    "page": "Cagnes25.html",
+    "file": "20250721_201455.jpg",
+    "thumb": "media/thumbs/Cagnes25/20250721_201455.jpg",
+    "small": "media/small/Cagnes25/20250721_201455.jpg",
+    "large": "media/large/Cagnes25/20250721_201455.jpg",
+    "date": "2025-07-21T20:14:55+02:00",
+    "slide": 19
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.1601275,
+     43.6631119,
+     66
+    ]
+   },
+   "properties": {
+    "album": "Cagnes25",
+    "page": "Cagnes25.html",
+    "file": "20250722_201126.jpg",
+    "thumb": "media/thumbs/Cagnes25/20250722_201126.jpg",
+    "small": "media/small/Cagnes25/20250722_201126.jpg",
+    "large": "media/large/Cagnes25/20250722_201126.jpg",
+    "date": "2025-07-22T20:11:26+02:00",
+    "slide": 20
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.2063977,
+     43.6591769,
+     56
+    ]
+   },
+   "properties": {
+    "album": "Cagnes25",
+    "page": "Cagnes25.html",
+    "file": "20250723_062600.jpg",
+    "thumb": "media/thumbs/Cagnes25/20250723_062600.jpg",
+    "small": "media/small/Cagnes25/20250723_062600.jpg",
+    "large": "media/large/Cagnes25/20250723_062600.jpg",
+    "date": "2025-07-23T06:26:01+02:00",
+    "slide": 21
+   }
+  }
+ ]
+}

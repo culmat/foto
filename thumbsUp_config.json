@@ -4,6 +4,7 @@
 	"theme-style"		: "/work/cullmann.less",
 	"sort-albums-direction"	: "desc",
 	"concurrency"		: "4",
+	"embed-exif"		: true,
 	"exclude": ["WIP/**"]
 }
 

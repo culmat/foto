@@ -1,0 +1,1572 @@
+{
+ "type": "FeatureCollection",
+ "album": "Peru25",
+ "page": "Peru25.html",
+ "mediaDir": "Peru25",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.0242474,
+     -12.1499611,
+     38
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250819_204226.jpg",
+    "thumb": "media/thumbs/Peru25/20250819_204226.jpg",
+    "small": "media/small/Peru25/20250819_204226.jpg",
+    "large": "media/large/Peru25/20250819_204226.jpg",
+    "slide": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -78.1459768,
+     -6.8684572,
+     2631
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250902_110921.jpg",
+    "thumb": "media/thumbs/Peru25/20250902_110921.jpg",
+    "small": "media/small/Peru25/20250902_110921.jpg",
+    "large": "media/large/Peru25/20250902_110921.jpg",
+    "slide": 128
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.631353,
+     -11.0909543,
+     33
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250903_163944.jpg",
+    "thumb": "media/thumbs/Peru25/20250903_163944.jpg",
+    "small": "media/small/Peru25/20250903_163944.jpg",
+    "large": "media/large/Peru25/20250903_163944.jpg",
+    "slide": 132
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.6627037,
+     -11.0131251,
+     22
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250903_174955.jpg",
+    "thumb": "media/thumbs/Peru25/20250903_174955.jpg",
+    "small": "media/small/Peru25/20250903_174955.jpg",
+    "large": "media/large/Peru25/20250903_174955.jpg",
+    "slide": 136
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.6573594,
+     -11.0069753,
+     44
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250903_182107.jpg",
+    "thumb": "media/thumbs/Peru25/20250903_182107.jpg",
+    "small": "media/small/Peru25/20250903_182107.jpg",
+    "large": "media/large/Peru25/20250903_182107.jpg",
+    "slide": 137
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.5991664,
+     -11.0702278,
+     90
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250903_185549.jpg",
+    "thumb": "media/thumbs/Peru25/20250903_185549.jpg",
+    "small": "media/small/Peru25/20250903_185549.jpg",
+    "large": "media/large/Peru25/20250903_185549.jpg",
+    "slide": 138
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.3651016,
+     -11.3622435,
+     436
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250904_120326.jpg",
+    "thumb": "media/thumbs/Peru25/20250904_120326.jpg",
+    "small": "media/small/Peru25/20250904_120326.jpg",
+    "large": "media/large/Peru25/20250904_120326.jpg",
+    "slide": 140
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.5888417,
+     -11.1854581,
+     42
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250904_160633.jpg",
+    "thumb": "media/thumbs/Peru25/20250904_160633.jpg",
+    "small": "media/small/Peru25/20250904_160633.jpg",
+    "large": "media/large/Peru25/20250904_160633.jpg",
+    "slide": 143
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.5878169,
+     -11.1866806,
+     38
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250904_163609.jpg",
+    "thumb": "media/thumbs/Peru25/20250904_163609.jpg",
+    "small": "media/small/Peru25/20250904_163609.jpg",
+    "large": "media/large/Peru25/20250904_163609.jpg",
+    "slide": 146
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.5877527,
+     -11.1861428,
+     80
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250904_164009.jpg",
+    "thumb": "media/thumbs/Peru25/20250904_164009.jpg",
+    "small": "media/small/Peru25/20250904_164009.jpg",
+    "large": "media/large/Peru25/20250904_164009.jpg",
+    "slide": 147
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5928636,
+     47.5274247,
+     397
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250818_093357.jpg",
+    "thumb": "media/thumbs/Peru25/20250818_093357.jpg",
+    "small": "media/small/Peru25/20250818_093357.jpg",
+    "large": "media/large/Peru25/20250818_093357.jpg",
+    "date": "2025-08-18T09:33:58+02:00",
+    "slide": 0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5288621,
+     47.59733,
+     316
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250819_054330.jpg",
+    "thumb": "media/thumbs/Peru25/20250819_054330.jpg",
+    "small": "media/small/Peru25/20250819_054330.jpg",
+    "large": "media/large/Peru25/20250819_054330.jpg",
+    "date": "2025-08-19T05:43:31+02:00",
+    "slide": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.1163109,
+     -12.0305576,
+     43
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250819_163813.jpg",
+    "thumb": "media/thumbs/Peru25/20250819_163813.jpg",
+    "small": "media/small/Peru25/20250819_163813.jpg",
+    "large": "media/large/Peru25/20250819_163813.jpg",
+    "date": "2025-08-19T16:38:14-05:00",
+    "slide": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.0241735,
+     -12.150065,
+     -70
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250819_205117.jpg",
+    "thumb": "media/thumbs/Peru25/20250819_205117.jpg",
+    "small": "media/small/Peru25/20250819_205117.jpg",
+    "large": "media/large/Peru25/20250819_205117.jpg",
+    "date": "2025-08-19T20:51:17-05:00",
+    "slide": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.8532189,
+     -6.2068422,
+     2554
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250820_102835.jpg",
+    "thumb": "media/thumbs/Peru25/20250820_102835.jpg",
+    "small": "media/small/Peru25/20250820_102835.jpg",
+    "large": "media/large/Peru25/20250820_102835.jpg",
+    "date": "2025-08-20T10:28:35-05:00",
+    "slide": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9783571,
+     -5.9467825,
+     1335
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250820_130624.jpg",
+    "thumb": "media/thumbs/Peru25/20250820_130624.jpg",
+    "small": "media/small/Peru25/20250820_130624.jpg",
+    "large": "media/large/Peru25/20250820_130624.jpg",
+    "date": "2025-08-20T13:06:25-05:00",
+    "slide": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9416674,
+     -5.9331531,
+     1958
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250820_161934.jpg",
+    "thumb": "media/thumbs/Peru25/20250820_161934.jpg",
+    "small": "media/small/Peru25/20250820_161934.jpg",
+    "large": "media/large/Peru25/20250820_161934.jpg",
+    "date": "2025-08-20T16:19:34-05:00",
+    "slide": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9332852,
+     -5.9411414,
+     1933
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250820_165543.jpg",
+    "thumb": "media/thumbs/Peru25/20250820_165543.jpg",
+    "small": "media/small/Peru25/20250820_165543.jpg",
+    "large": "media/large/Peru25/20250820_165543.jpg",
+    "date": "2025-08-20T16:55:43-05:00",
+    "slide": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9332829,
+     -5.9411283,
+     1927
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250820_165616.jpg",
+    "thumb": "media/thumbs/Peru25/20250820_165616.jpg",
+    "small": "media/small/Peru25/20250820_165616.jpg",
+    "large": "media/large/Peru25/20250820_165616.jpg",
+    "date": "2025-08-20T16:56:16-05:00",
+    "slide": 12
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9282611,
+     -5.9453496,
+     1866
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250820_171917.jpg",
+    "thumb": "media/thumbs/Peru25/20250820_171917.jpg",
+    "small": "media/small/Peru25/20250820_171917.jpg",
+    "large": "media/large/Peru25/20250820_171917.jpg",
+    "date": "2025-08-20T17:19:17-05:00",
+    "slide": 13
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9203173,
+     -5.9510748,
+     2032
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250820_174631.jpg",
+    "thumb": "media/thumbs/Peru25/20250820_174631.jpg",
+    "small": "media/small/Peru25/20250820_174631.jpg",
+    "large": "media/large/Peru25/20250820_174631.jpg",
+    "date": "2025-08-20T17:46:31-05:00",
+    "slide": 14
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9200471,
+     -5.9510211,
+     2152
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250820_175136.jpg",
+    "thumb": "media/thumbs/Peru25/20250820_175136.jpg",
+    "small": "media/small/Peru25/20250820_175136.jpg",
+    "large": "media/large/Peru25/20250820_175136.jpg",
+    "date": "2025-08-20T17:51:51-05:00",
+    "slide": 15
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9109334,
+     -5.9187516,
+     2002
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250821_104914.jpg",
+    "thumb": "media/thumbs/Peru25/20250821_104914.jpg",
+    "small": "media/small/Peru25/20250821_104914.jpg",
+    "large": "media/large/Peru25/20250821_104914.jpg",
+    "date": "2025-08-21T10:49:29-05:00",
+    "slide": 18
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9107011,
+     -5.9191061,
+     1897
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250821_105219.jpg",
+    "thumb": "media/thumbs/Peru25/20250821_105219.jpg",
+    "small": "media/small/Peru25/20250821_105219.jpg",
+    "large": "media/large/Peru25/20250821_105219.jpg",
+    "date": "2025-08-21T10:52:19-05:00",
+    "slide": 20
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9089725,
+     -5.9180052,
+     1950
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250821_114151.jpg",
+    "thumb": "media/thumbs/Peru25/20250821_114151.jpg",
+    "small": "media/small/Peru25/20250821_114151.jpg",
+    "large": "media/large/Peru25/20250821_114151.jpg",
+    "date": "2025-08-21T11:41:51-05:00",
+    "slide": 22
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9087624,
+     -5.9182079,
+     1917
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250821_120031.jpg",
+    "thumb": "media/thumbs/Peru25/20250821_120031.jpg",
+    "small": "media/small/Peru25/20250821_120031.jpg",
+    "large": "media/large/Peru25/20250821_120031.jpg",
+    "date": "2025-08-21T12:00:31-05:00",
+    "slide": 23
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9079114,
+     -5.9205894,
+     2116
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250821_124933.jpg",
+    "thumb": "media/thumbs/Peru25/20250821_124933.jpg",
+    "small": "media/small/Peru25/20250821_124933.jpg",
+    "large": "media/large/Peru25/20250821_124933.jpg",
+    "date": "2025-08-21T12:49:38-05:00",
+    "slide": 24
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.908107,
+     -5.9207016,
+     2129
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250821_125429.jpg",
+    "thumb": "media/thumbs/Peru25/20250821_125429.jpg",
+    "small": "media/small/Peru25/20250821_125429.jpg",
+    "large": "media/large/Peru25/20250821_125429.jpg",
+    "date": "2025-08-21T12:54:29-05:00",
+    "slide": 25
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9051456,
+     -5.9187976,
+     2222
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250821_131111.jpg",
+    "thumb": "media/thumbs/Peru25/20250821_131111.jpg",
+    "small": "media/small/Peru25/20250821_131111.jpg",
+    "large": "media/large/Peru25/20250821_131111.jpg",
+    "date": "2025-08-21T13:11:11-05:00",
+    "slide": 26
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.905463,
+     -5.9193655,
+     2162
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250821_143000.jpg",
+    "thumb": "media/thumbs/Peru25/20250821_143000.jpg",
+    "small": "media/small/Peru25/20250821_143000.jpg",
+    "large": "media/large/Peru25/20250821_143000.jpg",
+    "date": "2025-08-21T14:30:00-05:00",
+    "slide": 30
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9214553,
+     -5.9293683,
+     2248
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250821_171934.jpg",
+    "thumb": "media/thumbs/Peru25/20250821_171934.jpg",
+    "small": "media/small/Peru25/20250821_171934.jpg",
+    "large": "media/large/Peru25/20250821_171934.jpg",
+    "date": "2025-08-21T17:19:34-05:00",
+    "slide": 34
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9458133,
+     -5.9273512,
+     1909
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250821_180515.jpg",
+    "thumb": "media/thumbs/Peru25/20250821_180515.jpg",
+    "small": "media/small/Peru25/20250821_180515.jpg",
+    "large": "media/large/Peru25/20250821_180515.jpg",
+    "date": "2025-08-21T18:05:15-05:00",
+    "slide": 36
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9095787,
+     -5.9297045,
+     2707
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250822_102114.jpg",
+    "thumb": "media/thumbs/Peru25/20250822_102114.jpg",
+    "small": "media/small/Peru25/20250822_102114.jpg",
+    "large": "media/large/Peru25/20250822_102114.jpg",
+    "date": "2025-08-22T10:21:15-05:00",
+    "slide": 40
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9093608,
+     -5.9295755,
+     2731
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250822_102225.jpg",
+    "thumb": "media/thumbs/Peru25/20250822_102225.jpg",
+    "small": "media/small/Peru25/20250822_102225.jpg",
+    "large": "media/large/Peru25/20250822_102225.jpg",
+    "date": "2025-08-22T10:22:25-05:00",
+    "slide": 41
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.8995873,
+     -5.9311181,
+     2963
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250822_115725.jpg",
+    "thumb": "media/thumbs/Peru25/20250822_115725.jpg",
+    "small": "media/small/Peru25/20250822_115725.jpg",
+    "large": "media/large/Peru25/20250822_115725.jpg",
+    "date": "2025-08-22T11:57:26-05:00",
+    "slide": 43
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9377541,
+     -6.0961088,
+     2305
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250823_130611.jpg",
+    "thumb": "media/thumbs/Peru25/20250823_130611.jpg",
+    "small": "media/small/Peru25/20250823_130611.jpg",
+    "large": "media/large/Peru25/20250823_130611.jpg",
+    "date": "2025-08-23T13:06:11-05:00",
+    "slide": 44
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9322555,
+     -6.0875819,
+     2325
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250823_140639.jpg",
+    "thumb": "media/thumbs/Peru25/20250823_140639.jpg",
+    "small": "media/small/Peru25/20250823_140639.jpg",
+    "large": "media/large/Peru25/20250823_140639.jpg",
+    "date": "2025-08-23T14:06:39-05:00",
+    "slide": 45
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9321047,
+     -6.0875446,
+     2329
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250823_140829.jpg",
+    "thumb": "media/thumbs/Peru25/20250823_140829.jpg",
+    "small": "media/small/Peru25/20250823_140829.jpg",
+    "large": "media/large/Peru25/20250823_140829.jpg",
+    "date": "2025-08-23T14:08:34-05:00",
+    "slide": 46
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9321383,
+     -6.0875146,
+     2324
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250823_140914.jpg",
+    "thumb": "media/thumbs/Peru25/20250823_140914.jpg",
+    "small": "media/small/Peru25/20250823_140914.jpg",
+    "large": "media/large/Peru25/20250823_140914.jpg",
+    "date": "2025-08-23T14:09:15-05:00",
+    "slide": 47
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9536981,
+     -6.1384768
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250823_145541.jpg",
+    "thumb": "media/thumbs/Peru25/20250823_145541.jpg",
+    "small": "media/small/Peru25/20250823_145541.jpg",
+    "large": "media/large/Peru25/20250823_145541.jpg",
+    "date": "2025-08-23T14:55:41-05:00",
+    "slide": 48
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9381393,
+     -6.0968811,
+     2315
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250823_154359.jpg",
+    "thumb": "media/thumbs/Peru25/20250823_154359.jpg",
+    "small": "media/small/Peru25/20250823_154359.jpg",
+    "large": "media/large/Peru25/20250823_154359.jpg",
+    "date": "2025-08-23T15:44:00-05:00",
+    "slide": 49
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9485945,
+     -6.1084844,
+     2420
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250823_163130.jpg",
+    "thumb": "media/thumbs/Peru25/20250823_163130.jpg",
+    "small": "media/small/Peru25/20250823_163130.jpg",
+    "large": "media/large/Peru25/20250823_163130.jpg",
+    "date": "2025-08-23T16:31:40-05:00",
+    "slide": 50
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.8718823,
+     -6.228979,
+     2366
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250824_104229.jpg",
+    "thumb": "media/thumbs/Peru25/20250824_104229.jpg",
+    "small": "media/small/Peru25/20250824_104229.jpg",
+    "large": "media/large/Peru25/20250824_104229.jpg",
+    "date": "2025-08-24T10:42:29-05:00",
+    "slide": 51
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.8749411,
+     -6.1357023,
+     2739
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250824_151609.jpg",
+    "thumb": "media/thumbs/Peru25/20250824_151609.jpg",
+    "small": "media/small/Peru25/20250824_151609.jpg",
+    "large": "media/large/Peru25/20250824_151609.jpg",
+    "date": "2025-08-24T15:16:24-05:00",
+    "slide": 52
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.8750122,
+     -6.1356642,
+     2731
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250824_151846.jpg",
+    "thumb": "media/thumbs/Peru25/20250824_151846.jpg",
+    "small": "media/small/Peru25/20250824_151846.jpg",
+    "large": "media/large/Peru25/20250824_151846.jpg",
+    "date": "2025-08-24T15:18:46-05:00",
+    "slide": 53
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.8638134,
+     -6.1732617,
+     2609
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250824_182800.jpg",
+    "thumb": "media/thumbs/Peru25/20250824_182800.jpg",
+    "small": "media/small/Peru25/20250824_182800.jpg",
+    "large": "media/large/Peru25/20250824_182800.jpg",
+    "date": "2025-08-24T18:28:00-05:00",
+    "slide": 54
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.8719715,
+     -6.226784,
+     2349
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250824_192348.jpg",
+    "thumb": "media/thumbs/Peru25/20250824_192348.jpg",
+    "small": "media/small/Peru25/20250824_192348.jpg",
+    "large": "media/large/Peru25/20250824_192348.jpg",
+    "date": "2025-08-24T19:23:48-05:00",
+    "slide": 55
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9147057,
+     -6.4169107,
+     2816
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250825_145305.jpg",
+    "thumb": "media/thumbs/Peru25/20250825_145305.jpg",
+    "small": "media/small/Peru25/20250825_145305.jpg",
+    "large": "media/large/Peru25/20250825_145305.jpg",
+    "date": "2025-08-25T14:53:06-05:00",
+    "slide": 56
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9241651,
+     -6.4202986,
+     3025
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250825_174752.jpg",
+    "thumb": "media/thumbs/Peru25/20250825_174752.jpg",
+    "small": "media/small/Peru25/20250825_174752.jpg",
+    "large": "media/large/Peru25/20250825_174752.jpg",
+    "date": "2025-08-25T17:48:08-05:00",
+    "slide": 57
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.7980891,
+     -6.7245629,
+     2406
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250826_161622.jpg",
+    "thumb": "media/thumbs/Peru25/20250826_161622.jpg",
+    "small": "media/small/Peru25/20250826_161622.jpg",
+    "large": "media/large/Peru25/20250826_161622.jpg",
+    "date": "2025-08-26T16:16:22-05:00",
+    "slide": 71
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.8083691,
+     -6.6929378,
+     2563
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250827_120912.jpg",
+    "thumb": "media/thumbs/Peru25/20250827_120912.jpg",
+    "small": "media/small/Peru25/20250827_120912.jpg",
+    "large": "media/large/Peru25/20250827_120912.jpg",
+    "date": "2025-08-27T12:09:12-05:00",
+    "slide": 77
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.8280374,
+     -6.6804215,
+     2805
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250827_133929.jpg",
+    "thumb": "media/thumbs/Peru25/20250827_133929.jpg",
+    "small": "media/small/Peru25/20250827_133929.jpg",
+    "large": "media/large/Peru25/20250827_133929.jpg",
+    "date": "2025-08-27T13:39:29-05:00",
+    "slide": 78
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.8280665,
+     -6.6800974,
+     2805
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250827_134313.jpg",
+    "thumb": "media/thumbs/Peru25/20250827_134313.jpg",
+    "small": "media/small/Peru25/20250827_134313.jpg",
+    "large": "media/large/Peru25/20250827_134313.jpg",
+    "date": "2025-08-27T13:43:13-05:00",
+    "slide": 79
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.8278743,
+     -6.679815,
+     2812
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250827_134919.jpg",
+    "thumb": "media/thumbs/Peru25/20250827_134919.jpg",
+    "small": "media/small/Peru25/20250827_134919.jpg",
+    "large": "media/large/Peru25/20250827_134919.jpg",
+    "date": "2025-08-27T13:49:19-05:00",
+    "slide": 80
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.8278762,
+     -6.6793641,
+     2820
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250827_135805.jpg",
+    "thumb": "media/thumbs/Peru25/20250827_135805.jpg",
+    "small": "media/small/Peru25/20250827_135805.jpg",
+    "large": "media/large/Peru25/20250827_135805.jpg",
+    "date": "2025-08-27T13:58:05-05:00",
+    "slide": 81
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.738985,
+     -6.95133,
+     3891.2
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "614_Huayllabamba.JPG",
+    "thumb": "media/thumbs/Peru25/614_Huayllabamba.JPG",
+    "small": "media/small/Peru25/614_Huayllabamba.JPG",
+    "large": "media/large/Peru25/614_Huayllabamba.JPG",
+    "date": "2025-08-29T12:13:33+01:00",
+    "slide": 95
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.7324583,
+     -6.9606117,
+     3725.5
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "636_Huayllabamba.JPG",
+    "thumb": "media/thumbs/Peru25/636_Huayllabamba.JPG",
+    "small": "media/small/Peru25/636_Huayllabamba.JPG",
+    "large": "media/large/Peru25/636_Huayllabamba.JPG",
+    "date": "2025-08-29T15:21:17+01:00",
+    "slide": 98
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.73057,
+     -6.96453,
+     3624.3
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "639_Huayllabamba.JPG",
+    "thumb": "media/thumbs/Peru25/639_Huayllabamba.JPG",
+    "small": "media/small/Peru25/639_Huayllabamba.JPG",
+    "large": "media/large/Peru25/639_Huayllabamba.JPG",
+    "date": "2025-08-29T16:09:54+01:00",
+    "slide": 100
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.7306133,
+     -6.9644617,
+     3626.5
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "641_Huayllabamba.JPG",
+    "thumb": "media/thumbs/Peru25/641_Huayllabamba.JPG",
+    "small": "media/small/Peru25/641_Huayllabamba.JPG",
+    "large": "media/large/Peru25/641_Huayllabamba.JPG",
+    "date": "2025-08-29T16:10:53+01:00",
+    "slide": 101
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.7470482,
+     -7.003372,
+     3838
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250830_125445.jpg",
+    "thumb": "media/thumbs/Peru25/20250830_125445.jpg",
+    "small": "media/small/Peru25/20250830_125445.jpg",
+    "large": "media/large/Peru25/20250830_125445.jpg",
+    "date": "2025-08-30T12:55:00-05:00",
+    "slide": 108
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.7470633,
+     -7.0033983,
+     3616.5
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "707_Huayllabamba.JPG",
+    "thumb": "media/thumbs/Peru25/707_Huayllabamba.JPG",
+    "small": "media/small/Peru25/707_Huayllabamba.JPG",
+    "large": "media/large/Peru25/707_Huayllabamba.JPG",
+    "date": "2025-08-30T12:55:26-05:00",
+    "slide": 109
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.7470483,
+     -7.0033567,
+     3613.9
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "719_Huayllabamba.JPG",
+    "thumb": "media/thumbs/Peru25/719_Huayllabamba.JPG",
+    "small": "media/small/Peru25/719_Huayllabamba.JPG",
+    "large": "media/large/Peru25/719_Huayllabamba.JPG",
+    "date": "2025-08-30T13:06:32-05:00",
+    "slide": 110
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.7626617,
+     -7.009515,
+     3287.1
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "736_Huayllabamba.JPG",
+    "thumb": "media/thumbs/Peru25/736_Huayllabamba.JPG",
+    "small": "media/small/Peru25/736_Huayllabamba.JPG",
+    "large": "media/large/Peru25/736_Huayllabamba.JPG",
+    "date": "2025-08-30T18:01:02-05:00",
+    "slide": 114
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.78873,
+     -7.0342567,
+     3368.6
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "758_Huayllabamba.JPG",
+    "thumb": "media/thumbs/Peru25/758_Huayllabamba.JPG",
+    "small": "media/small/Peru25/758_Huayllabamba.JPG",
+    "large": "media/large/Peru25/758_Huayllabamba.JPG",
+    "date": "2025-08-31T11:33:33-05:00",
+    "slide": 116
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.7593633,
+     -7.0452017,
+     3575.8
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "794_Huayllabamba.JPG",
+    "thumb": "media/thumbs/Peru25/794_Huayllabamba.JPG",
+    "small": "media/small/Peru25/794_Huayllabamba.JPG",
+    "large": "media/large/Peru25/794_Huayllabamba.JPG",
+    "date": "2025-08-31T16:54:25-05:00",
+    "slide": 117
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9671127,
+     -6.9756697,
+     1102
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250901_173315.jpg",
+    "thumb": "media/thumbs/Peru25/20250901_173315.jpg",
+    "small": "media/small/Peru25/20250901_173315.jpg",
+    "large": "media/large/Peru25/20250901_173315.jpg",
+    "date": "2025-09-01T17:33:15-05:00",
+    "slide": 121
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -78.0106343,
+     -6.9352992,
+     916
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250901_175937.jpg",
+    "thumb": "media/thumbs/Peru25/20250901_175937.jpg",
+    "small": "media/small/Peru25/20250901_175937.jpg",
+    "large": "media/large/Peru25/20250901_175937.jpg",
+    "date": "2025-09-01T17:59:37-05:00",
+    "slide": 123
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -78.1458037,
+     -6.8655453,
+     2662
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250902_092103.jpg",
+    "thumb": "media/thumbs/Peru25/20250902_092103.jpg",
+    "small": "media/small/Peru25/20250902_092103.jpg",
+    "large": "media/large/Peru25/20250902_092103.jpg",
+    "date": "2025-09-02T09:21:08-05:00",
+    "slide": 125
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -78.145418,
+     -6.8683515,
+     2657
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250902_110821.jpg",
+    "thumb": "media/thumbs/Peru25/20250902_110821.jpg",
+    "small": "media/small/Peru25/20250902_110821.jpg",
+    "large": "media/large/Peru25/20250902_110821.jpg",
+    "date": "2025-09-02T11:08:21-05:00",
+    "slide": 127
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.6312942,
+     -11.0910865,
+     40
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250903_163514.jpg",
+    "thumb": "media/thumbs/Peru25/20250903_163514.jpg",
+    "small": "media/small/Peru25/20250903_163514.jpg",
+    "large": "media/large/Peru25/20250903_163514.jpg",
+    "date": "2025-09-03T16:35:22-05:00",
+    "slide": 131
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.6616704,
+     -11.0122712,
+     26
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250903_173803.jpg",
+    "thumb": "media/thumbs/Peru25/20250903_173803.jpg",
+    "small": "media/small/Peru25/20250903_173803.jpg",
+    "large": "media/large/Peru25/20250903_173803.jpg",
+    "date": "2025-09-03T17:38:03-05:00",
+    "slide": 133
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.3626354,
+     -11.3610689,
+     421
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250904_121700.jpg",
+    "thumb": "media/thumbs/Peru25/20250904_121700.jpg",
+    "small": "media/small/Peru25/20250904_121700.jpg",
+    "large": "media/large/Peru25/20250904_121700.jpg",
+    "date": "2025-09-04T12:17:00-05:00",
+    "slide": 141
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.5887393,
+     -11.1868738,
+     42
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250904_161957.jpg",
+    "thumb": "media/thumbs/Peru25/20250904_161957.jpg",
+    "small": "media/small/Peru25/20250904_161957.jpg",
+    "large": "media/large/Peru25/20250904_161957.jpg",
+    "date": "2025-09-04T16:19:58-05:00",
+    "slide": 144
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.5884062,
+     -11.1866738,
+     24
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250904_162738.jpg",
+    "thumb": "media/thumbs/Peru25/20250904_162738.jpg",
+    "small": "media/small/Peru25/20250904_162738.jpg",
+    "large": "media/large/Peru25/20250904_162738.jpg",
+    "date": "2025-09-04T16:27:48-05:00",
+    "slide": 145
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.1757619,
+     -11.7250705,
+     83
+    ]
+   },
+   "properties": {
+    "album": "Peru25",
+    "page": "Peru25.html",
+    "file": "20250905_122752.jpg",
+    "thumb": "media/thumbs/Peru25/20250905_122752.jpg",
+    "small": "media/small/Peru25/20250905_122752.jpg",
+    "large": "media/large/Peru25/20250905_122752.jpg",
+    "date": "2025-09-05T12:27:52-05:00",
+    "slide": 148
+   }
+  }
+ ]
+}

@@ -1,0 +1,280 @@
+{
+ "type": "FeatureCollection",
+ "album": "SkiGrandBornand22-23",
+ "page": "SkiGrandBornand22-23.html",
+ "mediaDir": "SkiGrandBornand22-23",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.4406669,
+     45.9643838,
+     1249
+    ]
+   },
+   "properties": {
+    "album": "SkiGrandBornand22-23",
+    "page": "SkiGrandBornand22-23.html",
+    "file": "20221231_220440.jpg",
+    "thumb": "media/thumbs/SkiGrandBornand22-23/20221231_220440.jpg",
+    "small": "media/small/SkiGrandBornand22-23/20221231_220440.jpg",
+    "large": "media/large/SkiGrandBornand22-23/20221231_220440.jpg",
+    "date": "2022-12-31T22:04:40+01:00",
+    "slide": 0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.4827968,
+     45.9682612,
+     1726
+    ]
+   },
+   "properties": {
+    "album": "SkiGrandBornand22-23",
+    "page": "SkiGrandBornand22-23.html",
+    "file": "20230102_095758.jpg",
+    "thumb": "media/thumbs/SkiGrandBornand22-23/20230102_095758.jpg",
+    "small": "media/small/SkiGrandBornand22-23/20230102_095758.jpg",
+    "large": "media/large/SkiGrandBornand22-23/20230102_095758.jpg",
+    "date": "2023-01-02T09:57:59+01:00",
+    "slide": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.4829055,
+     45.9681405,
+     1728
+    ]
+   },
+   "properties": {
+    "album": "SkiGrandBornand22-23",
+    "page": "SkiGrandBornand22-23.html",
+    "file": "20230102_095816.jpg",
+    "thumb": "media/thumbs/SkiGrandBornand22-23/20230102_095816.jpg",
+    "small": "media/small/SkiGrandBornand22-23/20230102_095816.jpg",
+    "large": "media/large/SkiGrandBornand22-23/20230102_095816.jpg",
+    "date": "2023-01-02T09:58:28+01:00",
+    "slide": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.487429,
+     45.9632502,
+     1886
+    ]
+   },
+   "properties": {
+    "album": "SkiGrandBornand22-23",
+    "page": "SkiGrandBornand22-23.html",
+    "file": "20230102_100227.jpg",
+    "thumb": "media/thumbs/SkiGrandBornand22-23/20230102_100227.jpg",
+    "small": "media/small/SkiGrandBornand22-23/20230102_100227.jpg",
+    "large": "media/large/SkiGrandBornand22-23/20230102_100227.jpg",
+    "date": "2023-01-02T10:02:27+01:00",
+    "slide": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.4767003,
+     45.959685,
+     2083
+    ]
+   },
+   "properties": {
+    "album": "SkiGrandBornand22-23",
+    "page": "SkiGrandBornand22-23.html",
+    "file": "20230102_145835.jpg",
+    "thumb": "media/thumbs/SkiGrandBornand22-23/20230102_145835.jpg",
+    "small": "media/small/SkiGrandBornand22-23/20230102_145835.jpg",
+    "large": "media/large/SkiGrandBornand22-23/20230102_145835.jpg",
+    "date": "2023-01-02T14:58:35+01:00",
+    "slide": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.4414125,
+     45.9657603,
+     1262
+    ]
+   },
+   "properties": {
+    "album": "SkiGrandBornand22-23",
+    "page": "SkiGrandBornand22-23.html",
+    "file": "20230104_154811.jpg",
+    "thumb": "media/thumbs/SkiGrandBornand22-23/20230104_154811.jpg",
+    "small": "media/small/SkiGrandBornand22-23/20230104_154811.jpg",
+    "large": "media/large/SkiGrandBornand22-23/20230104_154811.jpg",
+    "date": "2023-01-04T15:48:11+01:00",
+    "slide": 12
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.4751231,
+     45.9690269
+    ]
+   },
+   "properties": {
+    "album": "SkiGrandBornand22-23",
+    "page": "SkiGrandBornand22-23.html",
+    "file": "20230105_122506.jpg",
+    "thumb": "media/thumbs/SkiGrandBornand22-23/20230105_122506.jpg",
+    "small": "media/small/SkiGrandBornand22-23/20230105_122506.jpg",
+    "large": "media/large/SkiGrandBornand22-23/20230105_122506.jpg",
+    "date": "2023-01-05T12:25:06+01:00",
+    "slide": 13
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.487554,
+     45.9635075,
+     1858
+    ]
+   },
+   "properties": {
+    "album": "SkiGrandBornand22-23",
+    "page": "SkiGrandBornand22-23.html",
+    "file": "20230105_122918.jpg",
+    "thumb": "media/thumbs/SkiGrandBornand22-23/20230105_122918.jpg",
+    "small": "media/small/SkiGrandBornand22-23/20230105_122918.jpg",
+    "large": "media/large/SkiGrandBornand22-23/20230105_122918.jpg",
+    "date": "2023-01-05T12:29:19+01:00",
+    "slide": 14
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.4835476,
+     45.9674448,
+     1731
+    ]
+   },
+   "properties": {
+    "album": "SkiGrandBornand22-23",
+    "page": "SkiGrandBornand22-23.html",
+    "file": "20230105_123950.jpg",
+    "thumb": "media/thumbs/SkiGrandBornand22-23/20230105_123950.jpg",
+    "small": "media/small/SkiGrandBornand22-23/20230105_123950.jpg",
+    "large": "media/large/SkiGrandBornand22-23/20230105_123950.jpg",
+    "date": "2023-01-05T12:39:50+01:00",
+    "slide": 15
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.4835476,
+     45.9674448,
+     1731
+    ]
+   },
+   "properties": {
+    "album": "SkiGrandBornand22-23",
+    "page": "SkiGrandBornand22-23.html",
+    "file": "20230105_123957.jpg",
+    "thumb": "media/thumbs/SkiGrandBornand22-23/20230105_123957.jpg",
+    "small": "media/small/SkiGrandBornand22-23/20230105_123957.jpg",
+    "large": "media/large/SkiGrandBornand22-23/20230105_123957.jpg",
+    "date": "2023-01-05T12:39:57+01:00",
+    "slide": 16
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.4875902,
+     45.9630149,
+     1862
+    ]
+   },
+   "properties": {
+    "album": "SkiGrandBornand22-23",
+    "page": "SkiGrandBornand22-23.html",
+    "file": "20230105_133412.jpg",
+    "thumb": "media/thumbs/SkiGrandBornand22-23/20230105_133412.jpg",
+    "small": "media/small/SkiGrandBornand22-23/20230105_133412.jpg",
+    "large": "media/large/SkiGrandBornand22-23/20230105_133412.jpg",
+    "date": "2023-01-05T13:34:12+01:00",
+    "slide": 17
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.4777328,
+     45.9737493,
+     1464
+    ]
+   },
+   "properties": {
+    "album": "SkiGrandBornand22-23",
+    "page": "SkiGrandBornand22-23.html",
+    "file": "20230105_135510.jpg",
+    "thumb": "media/thumbs/SkiGrandBornand22-23/20230105_135510.jpg",
+    "small": "media/small/SkiGrandBornand22-23/20230105_135510.jpg",
+    "large": "media/large/SkiGrandBornand22-23/20230105_135510.jpg",
+    "date": "2023-01-05T13:55:10+01:00",
+    "slide": 18
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.4973775,
+     45.9671648,
+     1804
+    ]
+   },
+   "properties": {
+    "album": "SkiGrandBornand22-23",
+    "page": "SkiGrandBornand22-23.html",
+    "file": "20230105_140953.jpg",
+    "thumb": "media/thumbs/SkiGrandBornand22-23/20230105_140953.jpg",
+    "small": "media/small/SkiGrandBornand22-23/20230105_140953.jpg",
+    "large": "media/large/SkiGrandBornand22-23/20230105_140953.jpg",
+    "date": "2023-01-05T14:10:04+01:00",
+    "slide": 19
+   }
+  }
+ ]
+}

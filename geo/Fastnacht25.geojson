@@ -1,0 +1,890 @@
+{
+ "type": "FeatureCollection",
+ "album": "Fastnacht25",
+ "page": "Fastnacht25.html",
+ "mediaDir": "Fastnacht25",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5920899,
+     47.5565929,
+     326
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_212527.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_212527.jpg",
+    "small": "media/small/Fastnacht25/20250311_212527.jpg",
+    "large": "media/large/Fastnacht25/20250311_212527.jpg",
+    "date": "2025-03-11T21:25:27+01:00",
+    "slide": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5918152,
+     47.5564879,
+     337
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_212815.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_212815.jpg",
+    "small": "media/small/Fastnacht25/20250311_212815.jpg",
+    "large": "media/large/Fastnacht25/20250311_212815.jpg",
+    "date": "2025-03-11T21:28:16+01:00",
+    "slide": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5916953,
+     47.5565345,
+     318
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_212900.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_212900.jpg",
+    "small": "media/small/Fastnacht25/20250311_212900.jpg",
+    "large": "media/large/Fastnacht25/20250311_212900.jpg",
+    "date": "2025-03-11T21:29:00+01:00",
+    "slide": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5918145,
+     47.5564576,
+     341
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_212947.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_212947.jpg",
+    "small": "media/small/Fastnacht25/20250311_212947.jpg",
+    "large": "media/large/Fastnacht25/20250311_212947.jpg",
+    "date": "2025-03-11T21:29:48+01:00",
+    "slide": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5915732,
+     47.5565851,
+     372
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_213046.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_213046.jpg",
+    "small": "media/small/Fastnacht25/20250311_213046.jpg",
+    "large": "media/large/Fastnacht25/20250311_213046.jpg",
+    "date": "2025-03-11T21:30:46+01:00",
+    "slide": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5914502,
+     47.5567577,
+     366
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_213250.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_213250.jpg",
+    "small": "media/small/Fastnacht25/20250311_213250.jpg",
+    "large": "media/large/Fastnacht25/20250311_213250.jpg",
+    "date": "2025-03-11T21:32:51+01:00",
+    "slide": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5912997,
+     47.5566629,
+     306
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_213357.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_213357.jpg",
+    "small": "media/small/Fastnacht25/20250311_213357.jpg",
+    "large": "media/large/Fastnacht25/20250311_213357.jpg",
+    "date": "2025-03-11T21:33:57+01:00",
+    "slide": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5913921,
+     47.556621,
+     325
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_213416.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_213416.jpg",
+    "small": "media/small/Fastnacht25/20250311_213416.jpg",
+    "large": "media/large/Fastnacht25/20250311_213416.jpg",
+    "date": "2025-03-11T21:34:17+01:00",
+    "slide": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5915255,
+     47.5570033,
+     288
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_214327.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_214327.jpg",
+    "small": "media/small/Fastnacht25/20250311_214327.jpg",
+    "large": "media/large/Fastnacht25/20250311_214327.jpg",
+    "date": "2025-03-11T21:43:27+01:00",
+    "slide": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5915255,
+     47.5570033,
+     288
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_214338.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_214338.jpg",
+    "small": "media/small/Fastnacht25/20250311_214338.jpg",
+    "large": "media/large/Fastnacht25/20250311_214338.jpg",
+    "date": "2025-03-11T21:43:38+01:00",
+    "slide": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5915255,
+     47.5570033,
+     288
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_214358.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_214358.jpg",
+    "small": "media/small/Fastnacht25/20250311_214358.jpg",
+    "large": "media/large/Fastnacht25/20250311_214358.jpg",
+    "date": "2025-03-11T21:43:58+01:00",
+    "slide": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5912755,
+     47.5569762,
+     328
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_214555.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_214555.jpg",
+    "small": "media/small/Fastnacht25/20250311_214555.jpg",
+    "large": "media/large/Fastnacht25/20250311_214555.jpg",
+    "date": "2025-03-11T21:45:55+01:00",
+    "slide": 12
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5910033,
+     47.5570165,
+     334
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_214801.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_214801.jpg",
+    "small": "media/small/Fastnacht25/20250311_214801.jpg",
+    "large": "media/large/Fastnacht25/20250311_214801.jpg",
+    "date": "2025-03-11T21:48:02+01:00",
+    "slide": 13
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5910033,
+     47.5570165,
+     334
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_214824.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_214824.jpg",
+    "small": "media/small/Fastnacht25/20250311_214824.jpg",
+    "large": "media/large/Fastnacht25/20250311_214824.jpg",
+    "date": "2025-03-11T21:48:24+01:00",
+    "slide": 14
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5910033,
+     47.5570165,
+     334
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_214839.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_214839.jpg",
+    "small": "media/small/Fastnacht25/20250311_214839.jpg",
+    "large": "media/large/Fastnacht25/20250311_214839.jpg",
+    "date": "2025-03-11T21:48:39+01:00",
+    "slide": 15
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.591246,
+     47.5568973,
+     283
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_214856.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_214856.jpg",
+    "small": "media/small/Fastnacht25/20250311_214856.jpg",
+    "large": "media/large/Fastnacht25/20250311_214856.jpg",
+    "date": "2025-03-11T21:48:56+01:00",
+    "slide": 16
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5912494,
+     47.5569184,
+     306
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_214939.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_214939.jpg",
+    "small": "media/small/Fastnacht25/20250311_214939.jpg",
+    "large": "media/large/Fastnacht25/20250311_214939.jpg",
+    "date": "2025-03-11T21:49:39+01:00",
+    "slide": 17
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5909066,
+     47.556697,
+     419
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_215452.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_215452.jpg",
+    "small": "media/small/Fastnacht25/20250311_215452.jpg",
+    "large": "media/large/Fastnacht25/20250311_215452.jpg",
+    "date": "2025-03-11T21:54:52+01:00",
+    "slide": 18
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.591075,
+     47.5568296,
+     315
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_215712.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_215712.jpg",
+    "small": "media/small/Fastnacht25/20250311_215712.jpg",
+    "large": "media/large/Fastnacht25/20250311_215712.jpg",
+    "date": "2025-03-11T21:57:13+01:00",
+    "slide": 20
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5910419,
+     47.5567489,
+     303
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_215832.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_215832.jpg",
+    "small": "media/small/Fastnacht25/20250311_215832.jpg",
+    "large": "media/large/Fastnacht25/20250311_215832.jpg",
+    "date": "2025-03-11T21:58:32+01:00",
+    "slide": 21
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5912043,
+     47.5567881,
+     342
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_215929.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_215929.jpg",
+    "small": "media/small/Fastnacht25/20250311_215929.jpg",
+    "large": "media/large/Fastnacht25/20250311_215929.jpg",
+    "date": "2025-03-11T21:59:29+01:00",
+    "slide": 22
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5912043,
+     47.5567881,
+     342
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_220025.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_220025.jpg",
+    "small": "media/small/Fastnacht25/20250311_220025.jpg",
+    "large": "media/large/Fastnacht25/20250311_220025.jpg",
+    "date": "2025-03-11T22:00:25+01:00",
+    "slide": 23
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5910492,
+     47.5566549,
+     322
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_220148.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_220148.jpg",
+    "small": "media/small/Fastnacht25/20250311_220148.jpg",
+    "large": "media/large/Fastnacht25/20250311_220148.jpg",
+    "date": "2025-03-11T22:01:48+01:00",
+    "slide": 24
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5914137,
+     47.5564722,
+     317
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_220317.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_220317.jpg",
+    "small": "media/small/Fastnacht25/20250311_220317.jpg",
+    "large": "media/large/Fastnacht25/20250311_220317.jpg",
+    "date": "2025-03-11T22:03:17+01:00",
+    "slide": 25
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5914305,
+     47.5564085,
+     327
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_220621.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_220621.jpg",
+    "small": "media/small/Fastnacht25/20250311_220621.jpg",
+    "large": "media/large/Fastnacht25/20250311_220621.jpg",
+    "date": "2025-03-11T22:06:22+01:00",
+    "slide": 26
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5914977,
+     47.5567655,
+     248
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_220840.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_220840.jpg",
+    "small": "media/small/Fastnacht25/20250311_220840.jpg",
+    "large": "media/large/Fastnacht25/20250311_220840.jpg",
+    "date": "2025-03-11T22:08:40+01:00",
+    "slide": 27
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5914977,
+     47.5567655,
+     248
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_220854.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_220854.jpg",
+    "small": "media/small/Fastnacht25/20250311_220854.jpg",
+    "large": "media/large/Fastnacht25/20250311_220854.jpg",
+    "date": "2025-03-11T22:08:54+01:00",
+    "slide": 28
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5914977,
+     47.5567655,
+     248
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_220911.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_220911.jpg",
+    "small": "media/small/Fastnacht25/20250311_220911.jpg",
+    "large": "media/large/Fastnacht25/20250311_220911.jpg",
+    "date": "2025-03-11T22:09:11+01:00",
+    "slide": 29
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5914977,
+     47.5567655,
+     248
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_220923.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_220923.jpg",
+    "small": "media/small/Fastnacht25/20250311_220923.jpg",
+    "large": "media/large/Fastnacht25/20250311_220923.jpg",
+    "date": "2025-03-11T22:09:23+01:00",
+    "slide": 30
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5914977,
+     47.5567655,
+     248
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_220930.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_220930.jpg",
+    "small": "media/small/Fastnacht25/20250311_220930.jpg",
+    "large": "media/large/Fastnacht25/20250311_220930.jpg",
+    "date": "2025-03-11T22:09:31+01:00",
+    "slide": 31
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5918243,
+     47.5562146,
+     315
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_221007.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_221007.jpg",
+    "small": "media/small/Fastnacht25/20250311_221007.jpg",
+    "large": "media/large/Fastnacht25/20250311_221007.jpg",
+    "date": "2025-03-11T22:10:07+01:00",
+    "slide": 33
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5914915,
+     47.5565506,
+     369
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_221114.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_221114.jpg",
+    "small": "media/small/Fastnacht25/20250311_221114.jpg",
+    "large": "media/large/Fastnacht25/20250311_221114.jpg",
+    "date": "2025-03-11T22:11:14+01:00",
+    "slide": 34
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5914915,
+     47.5565506,
+     369
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_221134.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_221134.jpg",
+    "small": "media/small/Fastnacht25/20250311_221134.jpg",
+    "large": "media/large/Fastnacht25/20250311_221134.jpg",
+    "date": "2025-03-11T22:11:35+01:00",
+    "slide": 35
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5918527,
+     47.5560975,
+     350
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_221449.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_221449.jpg",
+    "small": "media/small/Fastnacht25/20250311_221449.jpg",
+    "large": "media/large/Fastnacht25/20250311_221449.jpg",
+    "date": "2025-03-11T22:14:49+01:00",
+    "slide": 36
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5918527,
+     47.5560975,
+     350
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_221503.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_221503.jpg",
+    "small": "media/small/Fastnacht25/20250311_221503.jpg",
+    "large": "media/large/Fastnacht25/20250311_221503.jpg",
+    "date": "2025-03-11T22:15:04+01:00",
+    "slide": 37
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5918527,
+     47.5560975,
+     350
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_221516.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_221516.jpg",
+    "small": "media/small/Fastnacht25/20250311_221516.jpg",
+    "large": "media/large/Fastnacht25/20250311_221516.jpg",
+    "date": "2025-03-11T22:15:16+01:00",
+    "slide": 38
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5918527,
+     47.5560975,
+     350
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_221528.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_221528.jpg",
+    "small": "media/small/Fastnacht25/20250311_221528.jpg",
+    "large": "media/large/Fastnacht25/20250311_221528.jpg",
+    "date": "2025-03-11T22:15:28+01:00",
+    "slide": 39
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5918527,
+     47.5560975,
+     350
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_221539.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_221539.jpg",
+    "small": "media/small/Fastnacht25/20250311_221539.jpg",
+    "large": "media/large/Fastnacht25/20250311_221539.jpg",
+    "date": "2025-03-11T22:15:40+01:00",
+    "slide": 40
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5918948,
+     47.5560781,
+     336
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_221554.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_221554.jpg",
+    "small": "media/small/Fastnacht25/20250311_221554.jpg",
+    "large": "media/large/Fastnacht25/20250311_221554.jpg",
+    "date": "2025-03-11T22:15:54+01:00",
+    "slide": 41
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5914355,
+     47.5564647,
+     360
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_221624.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_221624.jpg",
+    "small": "media/small/Fastnacht25/20250311_221624.jpg",
+    "large": "media/large/Fastnacht25/20250311_221624.jpg",
+    "date": "2025-03-11T22:16:24+01:00",
+    "slide": 42
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5914355,
+     47.5564647,
+     360
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_221653.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_221653.jpg",
+    "small": "media/small/Fastnacht25/20250311_221653.jpg",
+    "large": "media/large/Fastnacht25/20250311_221653.jpg",
+    "date": "2025-03-11T22:16:53+01:00",
+    "slide": 43
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5914076,
+     47.5564577,
+     376
+    ]
+   },
+   "properties": {
+    "album": "Fastnacht25",
+    "page": "Fastnacht25.html",
+    "file": "20250311_221707.jpg",
+    "thumb": "media/thumbs/Fastnacht25/20250311_221707.jpg",
+    "small": "media/small/Fastnacht25/20250311_221707.jpg",
+    "large": "media/large/Fastnacht25/20250311_221707.jpg",
+    "date": "2025-03-11T22:17:07+01:00",
+    "slide": 44
+   }
+  }
+ ]
+}

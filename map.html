@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<!--
+  Map mode. Unlike every other *.html in this directory, this page is
+  hand-authored and committed -- thumbsup only ever writes index.html and one
+  page per album in src/, so it never touches this file.
+
+  It is still picked up by patchHtml.py (which keys off the viewport meta), and
+  that is where its <head>/<body> asset tags come from: Leaflet, markercluster
+  and assets/map.js are injected into the foto-map regions rather than written
+  here, so their cache-busting digests stay in one place.
+
+  The chrome below deliberately mirrors thumbsup's "cards" theme markup so the
+  page inherits public/theme.css and looks like the rest of the gallery.
+-->
+<html>
+
+  <head>
+      <meta charset="utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, viewport-fit=cover" />
+      <title>Cullmann Gallery - Map</title>
+      <link rel="stylesheet" href="public/core.css" />
+      <link rel="stylesheet" href="public/theme.css" />
+  <!-- foto-immersive:head -->
+      <meta name="apple-mobile-web-app-capable" content="yes" />
+      <meta name="mobile-web-app-capable" content="yes" />
+      <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+      <meta name="theme-color" content="#000000" />
+      <meta name="color-scheme" content="dark" />
+      <link rel="stylesheet" href="assets/immersive.css?v=21132908" />
+      <!-- /foto-immersive:head -->
+      <!-- foto-map:head -->
+      <link rel="stylesheet" href="assets/leaflet/leaflet.css?v=ec929f11" />
+      <link rel="stylesheet" href="assets/leaflet/MarkerCluster.css?v=bcc4ce53" />
+      <link rel="stylesheet" href="assets/leaflet/MarkerCluster.Default.css?v=26abe0e9" />
+      <link rel="stylesheet" href="assets/map.css?v=4bee7a02" />
+      <!-- /foto-map:head -->
+  </head>
+
+  <body>
+
+    <div id="container">
+
+      <!--
+        Gallery title
+      -->
+      <header>
+        <h1><a href="index.html">Cullmann Gallery</a></h1>
+      </header>
+
+      <!--
+        Breadcrumbs; map.js appends the album crumb when ?album= is set.
+      -->
+      <nav class="breadcrumbs">
+    <a class="breadcrumb-item" href="index.html">Home</a><span id="crumb">&nbsp;/&nbsp;Map</span>
+      </nav>
+
+      <!--
+        The map, and the message shown instead of it when there is no data.
+      -->
+      <div id="photomap"></div>
+
+      <p id="map-note" hidden></p>
+
+      <!--
+        Required OpenStreetMap credit. Deliberately here rather than as a
+        Leaflet attribution control overlaying the map: same obligation, no
+        unreadable bar across the tiles. Static, so it does not depend on JS.
+      -->
+      <p id="map-credit">Map data &copy;
+        <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>
+        contributors</p>
+
+    </div>
+
+  <!-- foto-immersive:body -->
+    <script src="assets/immersive.js?v=6ae464fd"></script>
+    <!-- /foto-immersive:body -->
+    <!-- foto-map:body -->
+    <script src="assets/leaflet/leaflet.js?v=5a640ff8"></script>
+    <script src="assets/leaflet/leaflet.markercluster.js?v=19805c0d"></script>
+    <script src="assets/map.js?v=ef1de3e6"></script>
+    <!-- /foto-map:body -->
+  </body>
+
+</html>

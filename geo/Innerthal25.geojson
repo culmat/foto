@@ -1,0 +1,301 @@
+{
+ "type": "FeatureCollection",
+ "album": "Innerthal25",
+ "page": "Innerthal25.html",
+ "mediaDir": "Innerthal25",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.9272443,
+     47.1021827,
+     1100
+    ]
+   },
+   "properties": {
+    "album": "Innerthal25",
+    "page": "Innerthal25.html",
+    "file": "20251012_125022.jpg",
+    "thumb": "media/thumbs/Innerthal25/20251012_125022.jpg",
+    "small": "media/small/Innerthal25/20251012_125022.jpg",
+    "large": "media/large/Innerthal25/20251012_125022.jpg",
+    "date": "2025-10-12T12:50:22+02:00",
+    "slide": 0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.927253,
+     47.0971535
+    ]
+   },
+   "properties": {
+    "album": "Innerthal25",
+    "page": "Innerthal25.html",
+    "file": "20251012_131645.jpg",
+    "thumb": "media/thumbs/Innerthal25/20251012_131645.jpg",
+    "small": "media/small/Innerthal25/20251012_131645.jpg",
+    "large": "media/large/Innerthal25/20251012_131645.jpg",
+    "date": "2025-10-12T13:16:45+02:00",
+    "slide": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.9413536,
+     47.1026911,
+     1300
+    ]
+   },
+   "properties": {
+    "album": "Innerthal25",
+    "page": "Innerthal25.html",
+    "file": "20251012_132350.jpg",
+    "thumb": "media/thumbs/Innerthal25/20251012_132350.jpg",
+    "small": "media/small/Innerthal25/20251012_132350.jpg",
+    "large": "media/large/Innerthal25/20251012_132350.jpg",
+    "date": "2025-10-12T13:23:50+02:00",
+    "slide": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.9481056,
+     47.1036111,
+     1444
+    ]
+   },
+   "properties": {
+    "album": "Innerthal25",
+    "page": "Innerthal25.html",
+    "file": "20251012_134050.jpg",
+    "thumb": "media/thumbs/Innerthal25/20251012_134050.jpg",
+    "small": "media/small/Innerthal25/20251012_134050.jpg",
+    "large": "media/large/Innerthal25/20251012_134050.jpg",
+    "date": "2025-10-12T13:40:58+02:00",
+    "slide": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.9477342,
+     47.1030554,
+     1463
+    ]
+   },
+   "properties": {
+    "album": "Innerthal25",
+    "page": "Innerthal25.html",
+    "file": "20251012_134530.jpg",
+    "thumb": "media/thumbs/Innerthal25/20251012_134530.jpg",
+    "small": "media/small/Innerthal25/20251012_134530.jpg",
+    "large": "media/large/Innerthal25/20251012_134530.jpg",
+    "date": "2025-10-12T13:45:52+02:00",
+    "slide": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.9490088,
+     47.1003164,
+     1518
+    ]
+   },
+   "properties": {
+    "album": "Innerthal25",
+    "page": "Innerthal25.html",
+    "file": "20251012_140640.jpg",
+    "thumb": "media/thumbs/Innerthal25/20251012_140640.jpg",
+    "small": "media/small/Innerthal25/20251012_140640.jpg",
+    "large": "media/large/Innerthal25/20251012_140640.jpg",
+    "date": "2025-10-12T14:06:40+02:00",
+    "slide": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.9520256,
+     47.0992783,
+     1585
+    ]
+   },
+   "properties": {
+    "album": "Innerthal25",
+    "page": "Innerthal25.html",
+    "file": "20251012_141613.jpg",
+    "thumb": "media/thumbs/Innerthal25/20251012_141613.jpg",
+    "small": "media/small/Innerthal25/20251012_141613.jpg",
+    "large": "media/large/Innerthal25/20251012_141613.jpg",
+    "date": "2025-10-12T14:16:29+02:00",
+    "slide": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.952751,
+     47.0989687,
+     1625
+    ]
+   },
+   "properties": {
+    "album": "Innerthal25",
+    "page": "Innerthal25.html",
+    "file": "20251012_142024.jpg",
+    "thumb": "media/thumbs/Innerthal25/20251012_142024.jpg",
+    "small": "media/small/Innerthal25/20251012_142024.jpg",
+    "large": "media/large/Innerthal25/20251012_142024.jpg",
+    "date": "2025-10-12T14:20:29+02:00",
+    "slide": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.9574167,
+     47.0979833,
+     1903
+    ]
+   },
+   "properties": {
+    "album": "Innerthal25",
+    "page": "Innerthal25.html",
+    "file": "20251012_144438.jpg",
+    "thumb": "media/thumbs/Innerthal25/20251012_144438.jpg",
+    "small": "media/small/Innerthal25/20251012_144438.jpg",
+    "large": "media/large/Innerthal25/20251012_144438.jpg",
+    "date": "2025-10-12T14:44:52+02:00",
+    "slide": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.9577289,
+     47.1010651,
+     1988
+    ]
+   },
+   "properties": {
+    "album": "Innerthal25",
+    "page": "Innerthal25.html",
+    "file": "20251012_145817.jpg",
+    "thumb": "media/thumbs/Innerthal25/20251012_145817.jpg",
+    "small": "media/small/Innerthal25/20251012_145817.jpg",
+    "large": "media/large/Innerthal25/20251012_145817.jpg",
+    "date": "2025-10-12T14:58:34+02:00",
+    "slide": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.957889,
+     47.101054,
+     1975
+    ]
+   },
+   "properties": {
+    "album": "Innerthal25",
+    "page": "Innerthal25.html",
+    "file": "20251012_150121.jpg",
+    "thumb": "media/thumbs/Innerthal25/20251012_150121.jpg",
+    "small": "media/small/Innerthal25/20251012_150121.jpg",
+    "large": "media/large/Innerthal25/20251012_150121.jpg",
+    "date": "2025-10-12T15:01:38+02:00",
+    "slide": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.9578946,
+     47.1010207,
+     1967
+    ]
+   },
+   "properties": {
+    "album": "Innerthal25",
+    "page": "Innerthal25.html",
+    "file": "20251012_151103.jpg",
+    "thumb": "media/thumbs/Innerthal25/20251012_151103.jpg",
+    "small": "media/small/Innerthal25/20251012_151103.jpg",
+    "large": "media/large/Innerthal25/20251012_151103.jpg",
+    "date": "2025-10-12T15:11:03+02:00",
+    "slide": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.9586662,
+     47.099687,
+     1942
+    ]
+   },
+   "properties": {
+    "album": "Innerthal25",
+    "page": "Innerthal25.html",
+    "file": "20251012_152304.jpg",
+    "thumb": "media/thumbs/Innerthal25/20251012_152304.jpg",
+    "small": "media/small/Innerthal25/20251012_152304.jpg",
+    "large": "media/large/Innerthal25/20251012_152304.jpg",
+    "date": "2025-10-12T15:23:05+02:00",
+    "slide": 12
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.958253,
+     47.0986127,
+     1878
+    ]
+   },
+   "properties": {
+    "album": "Innerthal25",
+    "page": "Innerthal25.html",
+    "file": "20251012_152655.jpg",
+    "thumb": "media/thumbs/Innerthal25/20251012_152655.jpg",
+    "small": "media/small/Innerthal25/20251012_152655.jpg",
+    "large": "media/large/Innerthal25/20251012_152655.jpg",
+    "date": "2025-10-12T15:26:55+02:00",
+    "slide": 13
+   }
+  }
+ ]
+}

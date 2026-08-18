@@ -1,0 +1,385 @@
+{
+ "type": "FeatureCollection",
+ "album": "Paris23",
+ "page": "Paris23.html",
+ "mediaDir": "Paris23",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.8594455,
+     47.5685664
+    ]
+   },
+   "properties": {
+    "album": "Paris23",
+    "page": "Paris23.html",
+    "file": "20230428_181359.jpg",
+    "thumb": "media/thumbs/Paris23/20230428_181359.jpg",
+    "small": "media/small/Paris23/20230428_181359.jpg",
+    "large": "media/large/Paris23/20230428_181359.jpg",
+    "date": "2023-04-28T18:13:59+02:00",
+    "slide": 0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.7097046,
+     48.4841524,
+     90
+    ]
+   },
+   "properties": {
+    "album": "Paris23",
+    "page": "Paris23.html",
+    "file": "20230429_163921.jpg",
+    "thumb": "media/thumbs/Paris23/20230429_163921.jpg",
+    "small": "media/small/Paris23/20230429_163921.jpg",
+    "large": "media/large/Paris23/20230429_163921.jpg",
+    "date": "2023-04-29T16:39:21+02:00",
+    "slide": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.709267,
+     48.4843023,
+     108
+    ]
+   },
+   "properties": {
+    "album": "Paris23",
+    "page": "Paris23.html",
+    "file": "20230429_163954.jpg",
+    "thumb": "media/thumbs/Paris23/20230429_163954.jpg",
+    "small": "media/small/Paris23/20230429_163954.jpg",
+    "large": "media/large/Paris23/20230429_163954.jpg",
+    "date": "2023-04-29T16:39:54+02:00",
+    "slide": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.7063188,
+     48.4829968,
+     106
+    ]
+   },
+   "properties": {
+    "album": "Paris23",
+    "page": "Paris23.html",
+    "file": "20230429_164850.jpg",
+    "thumb": "media/thumbs/Paris23/20230429_164850.jpg",
+    "small": "media/small/Paris23/20230429_164850.jpg",
+    "large": "media/large/Paris23/20230429_164850.jpg",
+    "date": "2023-04-29T16:48:50+02:00",
+    "slide": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.7128495,
+     48.4882038,
+     118
+    ]
+   },
+   "properties": {
+    "album": "Paris23",
+    "page": "Paris23.html",
+    "file": "20230429_175207.jpg",
+    "thumb": "media/thumbs/Paris23/20230429_175207.jpg",
+    "small": "media/small/Paris23/20230429_175207.jpg",
+    "large": "media/large/Paris23/20230429_175207.jpg",
+    "date": "2023-04-29T17:52:08+02:00",
+    "slide": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.2729945,
+     48.8584064,
+     101
+    ]
+   },
+   "properties": {
+    "album": "Paris23",
+    "page": "Paris23.html",
+    "file": "20230430_124825.jpg",
+    "thumb": "media/thumbs/Paris23/20230430_124825.jpg",
+    "small": "media/small/Paris23/20230430_124825.jpg",
+    "large": "media/large/Paris23/20230430_124825.jpg",
+    "date": "2023-04-30T12:48:25+02:00",
+    "slide": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.2729606,
+     48.858379,
+     95
+    ]
+   },
+   "properties": {
+    "album": "Paris23",
+    "page": "Paris23.html",
+    "file": "20230430_124828.jpg",
+    "thumb": "media/thumbs/Paris23/20230430_124828.jpg",
+    "small": "media/small/Paris23/20230430_124828.jpg",
+    "large": "media/large/Paris23/20230430_124828.jpg",
+    "date": "2023-04-30T12:48:28+02:00",
+    "slide": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.2888121,
+     48.8619478,
+     101
+    ]
+   },
+   "properties": {
+    "album": "Paris23",
+    "page": "Paris23.html",
+    "file": "20230430_151206.jpg",
+    "thumb": "media/thumbs/Paris23/20230430_151206.jpg",
+    "small": "media/small/Paris23/20230430_151206.jpg",
+    "large": "media/large/Paris23/20230430_151206.jpg",
+    "date": "2023-04-30T15:12:06+02:00",
+    "slide": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.2906936,
+     48.860675,
+     77
+    ]
+   },
+   "properties": {
+    "album": "Paris23",
+    "page": "Paris23.html",
+    "file": "20230430_154030.jpg",
+    "thumb": "media/thumbs/Paris23/20230430_154030.jpg",
+    "small": "media/small/Paris23/20230430_154030.jpg",
+    "large": "media/large/Paris23/20230430_154030.jpg",
+    "date": "2023-04-30T15:40:30+02:00",
+    "slide": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.6649216,
+     48.4829383,
+     133
+    ]
+   },
+   "properties": {
+    "album": "Paris23",
+    "page": "Paris23.html",
+    "file": "20230501_112918.jpg",
+    "thumb": "media/thumbs/Paris23/20230501_112918.jpg",
+    "small": "media/small/Paris23/20230501_112918.jpg",
+    "large": "media/large/Paris23/20230501_112918.jpg",
+    "date": "2023-05-01T11:29:18+02:00",
+    "slide": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.664937,
+     48.4828241,
+     183
+    ]
+   },
+   "properties": {
+    "album": "Paris23",
+    "page": "Paris23.html",
+    "file": "20230501_113138.jpg",
+    "thumb": "media/thumbs/Paris23/20230501_113138.jpg",
+    "small": "media/small/Paris23/20230501_113138.jpg",
+    "large": "media/large/Paris23/20230501_113138.jpg",
+    "date": "2023-05-01T11:31:44+02:00",
+    "slide": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.6587477,
+     48.4832264,
+     157
+    ]
+   },
+   "properties": {
+    "album": "Paris23",
+    "page": "Paris23.html",
+    "file": "20230501_114535.jpg",
+    "thumb": "media/thumbs/Paris23/20230501_114535.jpg",
+    "small": "media/small/Paris23/20230501_114535.jpg",
+    "large": "media/large/Paris23/20230501_114535.jpg",
+    "date": "2023-05-01T11:45:35+02:00",
+    "slide": 12
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.6587477,
+     48.4832264,
+     157
+    ]
+   },
+   "properties": {
+    "album": "Paris23",
+    "page": "Paris23.html",
+    "file": "20230501_114616.jpg",
+    "thumb": "media/thumbs/Paris23/20230501_114616.jpg",
+    "small": "media/small/Paris23/20230501_114616.jpg",
+    "large": "media/large/Paris23/20230501_114616.jpg",
+    "date": "2023-05-01T11:46:16+02:00",
+    "slide": 13
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.6587477,
+     48.4832264,
+     157
+    ]
+   },
+   "properties": {
+    "album": "Paris23",
+    "page": "Paris23.html",
+    "file": "20230501_114628.jpg",
+    "thumb": "media/thumbs/Paris23/20230501_114628.jpg",
+    "small": "media/small/Paris23/20230501_114628.jpg",
+    "large": "media/large/Paris23/20230501_114628.jpg",
+    "date": "2023-05-01T11:46:37+02:00",
+    "slide": 14
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.6588274,
+     48.4831017,
+     144
+    ]
+   },
+   "properties": {
+    "album": "Paris23",
+    "page": "Paris23.html",
+    "file": "20230501_114827.jpg",
+    "thumb": "media/thumbs/Paris23/20230501_114827.jpg",
+    "small": "media/small/Paris23/20230501_114827.jpg",
+    "large": "media/large/Paris23/20230501_114827.jpg",
+    "date": "2023-05-01T11:48:27+02:00",
+    "slide": 15
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.6588274,
+     48.4831017,
+     144
+    ]
+   },
+   "properties": {
+    "album": "Paris23",
+    "page": "Paris23.html",
+    "file": "20230501_114834.jpg",
+    "thumb": "media/thumbs/Paris23/20230501_114834.jpg",
+    "small": "media/small/Paris23/20230501_114834.jpg",
+    "large": "media/large/Paris23/20230501_114834.jpg",
+    "date": "2023-05-01T11:48:41+02:00",
+    "slide": 16
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.648458,
+     48.4753134,
+     141
+    ]
+   },
+   "properties": {
+    "album": "Paris23",
+    "page": "Paris23.html",
+    "file": "20230501_121633.jpg",
+    "thumb": "media/thumbs/Paris23/20230501_121633.jpg",
+    "small": "media/small/Paris23/20230501_121633.jpg",
+    "large": "media/large/Paris23/20230501_121633.jpg",
+    "date": "2023-05-01T12:16:33+02:00",
+    "slide": 17
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.648458,
+     48.4753134,
+     141
+    ]
+   },
+   "properties": {
+    "album": "Paris23",
+    "page": "Paris23.html",
+    "file": "20230501_121646.jpg",
+    "thumb": "media/thumbs/Paris23/20230501_121646.jpg",
+    "small": "media/small/Paris23/20230501_121646.jpg",
+    "large": "media/large/Paris23/20230501_121646.jpg",
+    "date": "2023-05-01T12:16:46+02:00",
+    "slide": 18
+   }
+  }
+ ]
+}
