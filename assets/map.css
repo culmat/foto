@@ -1,0 +1,249 @@
+/* map.html only. Leaflet ships a light-themed UI; the gallery is permanently
+   dark (theme.css, compiled from cullmann.less), so nearly everything here is
+   re-colouring Leaflet's chrome to match. */
+
+#photomap {
+  /* dvh tracks the mobile URL bar as it hides; vh is the fallback. The subtracted
+     amount is the header + breadcrumbs + #container's 2em top/bottom padding. */
+  height: calc(100vh - 15em);
+  height: calc(100dvh - 15em);
+  min-height: 20em;
+  border-radius: 8px;          /* matches the album cards in theme.css */
+  background: #222;
+}
+
+.leaflet-container {
+  background: #222;
+  font: inherit;
+  border-radius: 8px;
+}
+
+/* --- dark basemap ------------------------------------------------------- */
+
+/* Standard OSM raster tiles filtered to a dark palette, rather than a
+   third-party dark tile server: one less dependency. Only .leaflet-tile is
+   filtered, so photo pins (a different pane) keep their true colours. */
+.map-dark .leaflet-tile {
+  filter: invert(1) hue-rotate(180deg) brightness(0.92) contrast(0.9) saturate(0.6);
+}
+
+/* Photo pins live in their own pane, so the tile filter never touches them. */
+
+/* --- pins and clusters -------------------------------------------------- */
+
+.leaflet-div-icon {
+  background: transparent;
+  border: none;
+}
+
+.photo-pin img,
+.photo-cluster img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+  border-radius: 6px;
+  border: 2px solid #eee;
+  background: #555;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.7);
+}
+
+.photo-pin img:hover,
+.photo-cluster:hover img {
+  border-color: #fff;
+}
+
+.photo-cluster {
+  position: relative;
+}
+
+.photo-cluster b {
+  position: absolute;
+  top: -7px;
+  right: -7px;
+  min-width: 1.1em;
+  padding: 0 0.35em;
+  border-radius: 999px;
+  background: #e8543f;
+  color: #fff;
+  font-size: 11px;
+  font-weight: bold;
+  line-height: 1.5em;
+  text-align: center;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.8);
+}
+
+/* markercluster animates through these; without a transparent background they
+   flash white on the dark map. */
+.marker-cluster,
+.marker-cluster div {
+  background: transparent;
+}
+
+/* --- popups ------------------------------------------------------------- */
+
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+  background: #3a3a3a;
+  color: #ddd;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.7);
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 8px;
+}
+
+.leaflet-popup-content {
+  margin: 10px;
+}
+
+.leaflet-container a.leaflet-popup-close-button {
+  color: #aaa;
+}
+
+.leaflet-container a.leaflet-popup-close-button:hover {
+  color: #fff;
+}
+
+.pop img {
+  display: block;
+  width: 100%;
+  border-radius: 5px;
+  background: #555;
+}
+
+.pop .meta {
+  display: flex;
+  justify-content: space-between;
+  gap: 1em;
+  margin-top: 0.5em;
+  font-size: 0.95em;
+}
+
+.pop .meta b {
+  font-weight: bold;
+  color: #eee;
+}
+
+.pop .meta span {
+  color: #aaa;
+  white-space: nowrap;
+}
+
+.leaflet-container .pop a.open {
+  display: block;
+  margin-top: 0.5em;
+  color: #ddd;
+  text-decoration: none;
+  font-size: 0.95em;
+}
+
+.leaflet-container .pop a.open:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+/* --- controls ----------------------------------------------------------- */
+
+.leaflet-bar,
+.map-ctl select {
+  border: 1px solid #777;
+  background: #333;
+  color: #ddd;
+}
+
+.leaflet-bar a,
+.leaflet-bar a:hover {
+  background: #333;
+  color: #ddd;
+  border-bottom-color: #555;
+}
+
+.leaflet-bar a:hover {
+  background: #444;
+  color: #fff;
+}
+
+.leaflet-bar a.leaflet-disabled {
+  background: #2b2b2b;
+  color: #666;
+}
+
+.map-ctl button {
+  display: block;
+  width: 30px;
+  height: 30px;
+  padding: 0;
+  border: none;
+  background: #333;
+  color: #ddd;
+  font: inherit;
+  font-size: 15px;
+  line-height: 30px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.map-ctl button + button {
+  border-top: 1px solid #555;
+}
+
+.map-ctl button:hover {
+  background: #444;
+  color: #fff;
+}
+
+.map-ctl button[aria-pressed='true'] {
+  background: #4a4a4a;
+  color: #fff;
+}
+
+.map-ctl select {
+  max-width: 14em;
+  padding: 0.3em 0.4em;
+  border-radius: 4px;
+  font: inherit;
+  font-size: 0.9em;
+}
+
+/* --- page states -------------------------------------------------------- */
+
+#map-note {
+  margin-top: 1.5em;
+  color: #aaa;
+  line-height: 1.5;
+}
+
+#map-note code {
+  color: #ddd;
+  font-family: monospace;
+}
+
+/* The OSM credit, as page text under the map instead of a control on top of it.
+   Quiet, but real body copy at full contrast -- the overlay it replaces was
+   1.4:1 against the tiles. */
+#map-credit {
+  margin-top: 0.7em;
+  color: #8f8f8f;
+  font-size: 0.8em;
+}
+
+#map-credit a {
+  color: #b0b0b0;
+}
+
+#map-credit a:hover,
+#map-credit a:focus {
+  color: #fff;
+}
+
+@media only screen and (max-width: 640px) {
+  #photomap {
+    height: calc(100vh - 13em);
+    height: calc(100dvh - 13em);
+  }
+
+  .map-ctl select {
+    max-width: 9em;
+  }
+}

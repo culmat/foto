@@ -3,3 +3,5 @@
 /thumbsup.log
 
 .DS_Store
+__pycache__/
+/geo/.cache.json

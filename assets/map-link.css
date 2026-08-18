@@ -1,0 +1,29 @@
+/* Styling for the single element patchHtml.py injects into every page's
+   <header>: the link into map mode.
+
+   Its own file, rather than part of map.css, because it is the one piece of map
+   styling that has to load on pages which are *not* the map. map.css pulls
+   Leaflet in with it and is far too heavy to put on all 37 album pages. */
+
+/* theme.css:42 sets header{font-size:1.8em} and h1{display:inline-block}, so
+   this sits on the title's line and its em sizes are relative to that 1.8em. */
+.map-link {
+  display: inline-block;
+  margin-left: 0.6em;
+  vertical-align: 0.15em;
+  padding: 0.15em 0.75em;
+  border: 1px solid #777;      /* @nav-border, cullmann.less */
+  border-radius: 999px;
+  font-size: 0.5em;            /* ~0.9em once the header's 1.8em is applied */
+  font-weight: normal;
+  letter-spacing: 0.04em;
+  color: #ddd;                 /* @body-color */
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.map-link:hover,
+.map-link:focus {
+  border-color: #ddd;
+  color: #fff;
+}
