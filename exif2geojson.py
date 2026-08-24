@@ -64,16 +64,28 @@ TAGS = ['-GPSLatitude', '-GPSLongitude', '-GPSAltitude', '-GPSAltitudeRef',
 
 
 def nfc(name):
-    """src/ dirs are NFD on macOS; media/ dirs and the HTML are NFC."""
+    """Normalise to NFC, the form everything committed here uses.
+
+    nfcSrc.py pins src/ to NFC before each build and git commits media/ as NFC
+    (core.precomposeunicode=true). The HTML follows from src/, because thumbsup
+    percent-encodes the raw album directory name into media URLs -- so when src/
+    drifts to NFD the generated HTML does too, and the album 404s on GitHub
+    Pages while resolving fine on macOS. nfcSrc.py and checkLinks.py exist to
+    stop that; normalising here keeps this script right either way.
+    """
     return unicodedata.normalize('NFC', name)
 
 
 def slug(name):
-    """thumbsup's album -> page-name transform: fold diacritics, keep the rest.
+    """Approximate thumbsup's album -> page-name transform: fold diacritics.
 
-    Matches the observed output -- Decembre22.html for 'Décembre22', but
-    'Peru25<emoji>.html' keeps its emoji. Only used for an album that has no
-    page yet; for everything else the page is found by scanning the HTML.
+    An approximation, not a reimplementation: thumbsup runs slugify with a
+    precomposed charmap, which also turns '&' into 'and', drops '.', maps spaces
+    to '-' and transliterates 'ß' -> 'ss' and 'ø' -> 'o'. None of that is done
+    here. It agrees on every album currently in src/ -- Decembre22.html for
+    'Décembre22', 'Peru25<emoji>.html' keeping its emoji -- and is only the
+    fallback for an album that has no page yet; for everything else the page is
+    found by scanning the HTML, which is exact.
     """
     decomposed = unicodedata.normalize('NFKD', nfc(name))
     return ''.join(c for c in decomposed if not unicodedata.combining(c))
