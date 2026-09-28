@@ -1,5 +1,19 @@
 [
  {
+  "album": "NL2026",
+  "page": "NL2026.html",
+  "file": "geo/NL2026.geojson",
+  "count": 14,
+  "bbox": [
+   4.222325,
+   52.013677,
+   4.355158,
+   52.113621
+  ],
+  "start": "2026-09-26",
+  "end": "2026-09-27"
+ },
+ {
   "album": "Innerthal25",
   "page": "Innerthal25.html",
   "file": "geo/Innerthal25.geojson",
